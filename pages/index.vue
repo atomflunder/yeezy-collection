@@ -1,6 +1,7 @@
 <template>
-    <ShareButtons :items="collectionItems" :title="collectionTitle" />
+    <HeaderButtons :items="collectionItems" :title="collectionTitle" />
 
+    <!-- TODO: Make the input pop out more -->
     <UInput
         v-model="collectionTitle"
         class="h-12"
@@ -108,6 +109,10 @@ const { collectionItems, addItem, removeItem } = useItemStore();
 const collectionTitle: Ref<string> = ref("Your Yeezy Collection");
 
 let isModalOpen = ref(false);
+
+// TODO: Improve UI (a lot)
+
+// TODO: Transparent pictures of yeezys?
 
 function openModal() {
     isModalOpen.value = true;

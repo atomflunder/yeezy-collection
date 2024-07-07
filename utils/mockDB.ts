@@ -1,6 +1,6 @@
 import type { DatabaseItem } from "~/types";
 
-// To be removed.
+// TODO: Use an actual DB? Which one? SQLite is not ideal since it's not supported by Vercel. Supabase?
 export function getAllItems(): DatabaseItem[] {
     return [
         {

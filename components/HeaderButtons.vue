@@ -17,12 +17,14 @@
                         : 'Share Collection'
                 "
                 @click="copyShareUrl()"
+                variant="link"
             />
             <UButton
                 icon="i-mdi-open-in-new"
                 label="View Collection"
                 :to="'/' + getShareUrl()"
                 target="_blank"
+                variant="link"
             />
 
             <UButton
@@ -45,6 +47,11 @@ const props = defineProps<{
     title: string;
     items: CollectionItem[];
 }>();
+
+// TODO: Light Theme Only? Theme Switcher?
+
+// TODO: Keep the header buttons for the /view page too?
+// Maybe change them to "Start New Collection" + "Edit this collection"?
 
 function getShareUrl() {
     let base = `view?title=${props.title}`;
