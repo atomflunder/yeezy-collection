@@ -1,7 +1,11 @@
 <template>
     <ShareButtons :items="collectionItems" :title="collectionTitle" />
 
-    <UInput v-model="collectionTitle" class="h-12" />
+    <UInput
+        v-model="collectionTitle"
+        class="h-12"
+        placeholder="The Title of your collection"
+    />
 
     <UModal v-model="isModalOpen">
         <UCard>
@@ -60,21 +64,27 @@
         </UCard>
     </UModal>
 
-    <div v-for="(collectionItem, i) in collectionItems">
-        <span>
-            {{ collectionItem.item.displayName }} - {{ collectionItem.size }}
+    <div class="grid lg:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-2">
+        <UCard v-for="(collectionItem, i) in collectionItems">
+            <UButton
+                @click="removeItem(i)"
+                icon="i-heroicons-x-mark"
+                color="red"
+                class="rounded-full float-right"
+            />
+
             <NuxtImg
                 :src="collectionItem.item.imageLink"
                 :alt="collectionItem.item.displayName"
                 width="200px"
             />
-            <UButton
-                @click="removeItem(i)"
-                icon="i-heroicons-x-mark"
-                color="red"
-                class="rounded-full"
-            />
-        </span>
+
+            <div>
+                {{ collectionItem.item.displayName }}
+                <br />
+                ({{ collectionItem.size }})
+            </div>
+        </UCard>
     </div>
 
     <UButton
