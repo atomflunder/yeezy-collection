@@ -62,6 +62,8 @@ function getShareUrl() {
 
     base += "&items=";
 
+    // TODO: Encode in Base64 (URL)?
+    // Maybe leave out the "US" part of sizing in an effort to minimize URL length
     props.items.map((i) => (base += `${i.item.id}-${i.size},`));
 
     console.log(base);
