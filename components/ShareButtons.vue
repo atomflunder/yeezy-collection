@@ -8,8 +8,8 @@
             <UButton
                 :icon="
                     isCopyButtonClicked
-                        ? 'i-heroicons-clipboard-document-check'
-                        : 'i-heroicons-clipboard-document'
+                        ? 'i-mdi-clipboard-check-multiple-outline'
+                        : 'i-mdi-clipboard-multiple-outline'
                 "
                 :label="
                     isCopyButtonClicked
@@ -19,10 +19,20 @@
                 @click="copyShareUrl()"
             />
             <UButton
-                icon="i-heroicons-link"
+                icon="i-mdi-open-in-new"
                 label="View Collection"
                 :to="'/' + getShareUrl()"
                 target="_blank"
+            />
+
+            <UButton
+                icon="i-mdi-github"
+                label="Visit my GitHub!"
+                to="/github"
+                target="_blank"
+                class="float-right invisible md:visible"
+                color="white"
+                variant="link"
             />
         </div>
     </client-only>
