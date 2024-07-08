@@ -54,21 +54,7 @@ const props = defineProps<{
 // Maybe change them to "Start New Collection" + "Edit this collection"?
 
 function getShareUrl() {
-    let base = `view?title=${props.title}`;
-
-    if (props.items.length === 0) {
-        return base;
-    }
-
-    base += "&items=";
-
-    // TODO: Encode in Base64 (URL)?
-    // Maybe leave out the "US" part of sizing in an effort to minimize URL length
-    props.items.map((i) => (base += `${i.item.id}-${i.size},`));
-
-    console.log(base);
-
-    return base;
+    return `view?title=${props.title}&items=${encodeItems(props.items)}`;
 }
 
 let isCopyButtonClicked = ref(false);
