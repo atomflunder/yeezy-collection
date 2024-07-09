@@ -1,5 +1,9 @@
 <template>
-    <HeaderButtons :items="collectionItems" :title="collectionTitle" />
+    <HeaderButtons
+        :items="collectionItems"
+        :title="collectionTitle"
+        :parent-page="'/index'"
+    />
 
     <!-- TODO: Make the input pop out more -->
     <UInput

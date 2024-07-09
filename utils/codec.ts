@@ -25,13 +25,14 @@ export function decodeItems(str: string): CollectionItem[] {
         .toString("binary")
         .split(",")
         .map((i) => {
-            const [rawItem, size] = i.split("-");
+            const [rawItem, rawSize] = i.split("-");
 
-            if (!rawItem || !size) {
+            if (!rawItem || !rawSize) {
                 return undefined;
             }
 
             const item = getItemById(rawItem);
+            const size = `${rawSize}US`;
 
             if (item && allSizes.includes(size)) {
                 return {

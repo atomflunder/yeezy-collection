@@ -1,4 +1,6 @@
 <template>
+    <HeaderButtons :items="decodedItems" :title="title" parent-page="/view" />
+
     <div>Collection Title: {{ title }}</div>
     <div>Decoded items: {{ decodedItems }}</div>
 </template>
@@ -12,8 +14,8 @@
 // TODO: Query validation.
 
 const query = useRoute().query;
-const title = query.title;
-const decodedItems = decodeItems(query.items);
+const title: string = query.title as string;
+const decodedItems = decodeItems(query.items as string);
 </script>
 
 <style scoped></style>

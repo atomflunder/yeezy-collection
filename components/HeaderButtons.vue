@@ -5,29 +5,36 @@
         </template>
 
         <div class="h-12">
-            <UButton
-                :icon="
-                    isCopyButtonClicked
-                        ? 'i-mdi-clipboard-check-multiple-outline'
-                        : 'i-mdi-clipboard-multiple-outline'
-                "
-                :label="
-                    isCopyButtonClicked
-                        ? 'Copied to Clipboard'
-                        : 'Share Collection'
-                "
-                @click="copyShareUrl()"
-                variant="link"
-            />
-            <UButton
-                icon="i-mdi-open-in-new"
-                label="View Collection"
-                :to="'/' + getShareUrl()"
-                target="_blank"
-                variant="link"
-            />
+            <div class="float-left" v-if="props.parentPage === '/index'">
+                <UButton
+                    :icon="
+                        isCopyButtonClicked
+                            ? 'i-mdi-clipboard-check-multiple-outline'
+                            : 'i-mdi-clipboard-multiple-outline'
+                    "
+                    :label="
+                        isCopyButtonClicked
+                            ? 'Copied to Clipboard'
+                            : 'Share Collection'
+                    "
+                    @click="copyShareUrl()"
+                    variant="link"
+                />
+                <UButton
+                    icon="i-mdi-open-in-new"
+                    label="View Collection"
+                    :to="'/' + getShareUrl()"
+                    target="_blank"
+                    variant="link"
+                />
+            </div>
 
-            <div class="h-12 float-right">
+            <div class="float-left" v-else-if="props.parentPage === '/view'">
+                <!-- TODO -->
+                Placeholder
+            </div>
+
+            <div class="float-right">
                 <UButton
                     :icon="
                         isDark ? 'i-mdi-weather-night' : 'i-mdi-weather-sunny'
@@ -54,6 +61,7 @@ import type { CollectionItem } from "~/types";
 const props = defineProps<{
     title: string;
     items: CollectionItem[];
+    parentPage: "/index" | "/view";
 }>();
 
 const colorMode = useColorMode();
