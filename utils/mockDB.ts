@@ -2,8 +2,14 @@ import type { DatabaseItem } from "~/types";
 
 // TODO: Use an actual DB? Which one? SQLite is not ideal since it's not supported by Vercel. Supabase?
 
-export function getItemById(id: string): DatabaseItem {
-    return getAllItems().filter((i) => i.id === id)[0];
+export function getItemById(id: string): DatabaseItem | undefined {
+    const foundItems = getAllItems().filter((i) => i.id === id);
+
+    if (foundItems.length !== 1) {
+        return undefined;
+    }
+
+    return foundItems[0];
 }
 
 export function getAllItems(): DatabaseItem[] {

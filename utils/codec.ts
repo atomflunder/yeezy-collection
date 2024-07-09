@@ -25,13 +25,15 @@ export function decodeItems(str: string): CollectionItem[] {
         .toString("binary")
         .split(",")
         .map((i) => {
-            // TODO: Make it more failsafe, check if ID and size make sense.
-            // For size: contains in allSizes.
-            // For ID: just check if getItemById function returns something and implement the logic there.
-            const item = getItemById(i.split("-")[0]);
-            const size = i.split("-")[1];
+            const [rawItem, size] = i.split("-");
 
-            if (item && size) {
+            if (!rawItem || !size) {
+                return undefined;
+            }
+
+            const item = getItemById(rawItem);
+
+            if (item && allSizes.includes(size)) {
                 return {
                     item,
                     size,
