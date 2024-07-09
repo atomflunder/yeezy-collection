@@ -1,8 +1,10 @@
 <template>
     <HeaderButtons :items="decodedItems" :title="title" parent-page="/view" />
 
-    <div>Collection Title: {{ title }}</div>
-    <div>Decoded items: {{ decodedItems }}</div>
+    <div class="p-4">
+        <div>Collection Title: {{ title }}</div>
+        <div>Decoded items: {{ decodedItems }}</div>
+    </div>
 </template>
 
 <script setup lang="ts">

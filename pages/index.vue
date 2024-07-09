@@ -5,26 +5,35 @@
         :parent-page="'/index'"
     />
 
-    <!-- TODO: Make the input pop out more -->
     <UInput
         v-model="collectionTitle"
-        class="h-12"
-        placeholder="The Title of your collection"
+        class="h-12 p-4"
+        placeholder="The Title of your collection..."
+        variant="outline"
+        color="primary"
+        size="lg"
     />
 
     <UModal v-model="isModalOpen">
         <UCard>
             <template #header>
+                <div v-if="currentlySelectedYeezy" class="h-8 text-left"></div>
+
+                {{
+                    currentlySelectedYeezy
+                        ? currentlySelectedYeezy.displayName
+                        : "Add a new Yeezy"
+                }}
+
                 <UButton
                     @click="closeModal"
                     icon="i-heroicons-x-mark"
-                    style="float: right"
                     color="red"
+                    class="rounded-full float-right"
                 />
             </template>
 
             <span v-if="currentlySelectedYeezy !== undefined">
-                {{ currentlySelectedYeezy.displayName }}
                 <NuxtImg
                     :src="currentlySelectedYeezy.imageLink"
                     :alt="currentlySelectedYeezy.displayName"
@@ -69,7 +78,7 @@
         </UCard>
     </UModal>
 
-    <div class="grid lg:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-2">
+    <div class="grid lg:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-2 p-4">
         <UCard v-for="(collectionItem, i) in collectionItems">
             <UButton
                 @click="removeItem(i)"
@@ -90,14 +99,14 @@
                 ({{ collectionItem.size }})
             </div>
         </UCard>
-    </div>
 
-    <UButton
-        @click="openModal"
-        icon="i-heroicons-plus"
-        class="rounded-full fixed bottom-4 left-4"
-        size="xl"
-    />
+        <UButton
+            @click="openModal"
+            icon="i-heroicons-plus"
+            class="rounded-full fixed bottom-4 left-4"
+            size="xl"
+        />
+    </div>
 </template>
 
 <script setup lang="ts">
@@ -110,7 +119,7 @@ const currentlySelectedYeezy: Ref<DatabaseItem | undefined> = ref();
 const currentlySelectedSize: Ref<string | undefined> = ref();
 
 const { collectionItems, addItem, removeItem } = useItemStore();
-const collectionTitle: Ref<string> = ref("Your Yeezy Collection");
+const collectionTitle: Ref<string> = ref("");
 
 let isModalOpen = ref(false);
 

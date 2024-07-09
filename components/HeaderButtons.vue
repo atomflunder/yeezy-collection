@@ -1,10 +1,10 @@
 <template>
     <client-only>
         <template #fallback>
-            <USkeleton class="h-12" />
+            <USkeleton class="h-12 p-4" />
         </template>
 
-        <div class="h-12">
+        <div class="h-12 p-4">
             <div class="float-left">
                 <UButton
                     :icon="
