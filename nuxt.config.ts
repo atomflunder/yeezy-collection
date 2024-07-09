@@ -9,5 +9,6 @@ export default defineNuxtConfig({
         "@pinia-plugin-persistedstate/nuxt",
     ],
     ui: { icons: ["mdi"] },
+    colorMode: { preference: "light" },
 });
 

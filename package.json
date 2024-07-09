@@ -13,6 +13,7 @@
     "@iconify/json": "^2.2.225",
     "@nuxt/image": "^1.7.0",
     "@nuxt/ui": "^2.17.0",
+    "@nuxtjs/color-mode": "^3.4.2",
     "nuxt": "^3.12.3",
     "vue": "latest"
   },

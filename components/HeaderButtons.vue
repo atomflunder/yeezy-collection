@@ -27,15 +27,23 @@
                 variant="link"
             />
 
-            <UButton
-                icon="i-mdi-github"
-                label="Visit my GitHub!"
-                to="/github"
-                target="_blank"
-                class="float-right invisible md:visible"
-                color="white"
-                variant="link"
-            />
+            <div class="h-12 float-right">
+                <UButton
+                    :icon="
+                        isDark ? 'i-mdi-weather-night' : 'i-mdi-weather-sunny'
+                    "
+                    color="gray"
+                    variant="ghost"
+                    @click="isDark = !isDark"
+                />
+                <UButton
+                    icon="i-mdi-github"
+                    to="/github"
+                    target="_blank"
+                    color="white"
+                    variant="ghost"
+                />
+            </div>
         </div>
     </client-only>
 </template>
@@ -48,7 +56,15 @@ const props = defineProps<{
     items: CollectionItem[];
 }>();
 
-// TODO: Light Theme Only? Theme Switcher?
+const colorMode = useColorMode();
+const isDark = computed({
+    get() {
+        return colorMode.value === "dark";
+    },
+    set() {
+        colorMode.preference = colorMode.value === "dark" ? "light" : "dark";
+    },
+});
 
 // TODO: Keep the header buttons for the /view page too?
 // Maybe change them to "Start New Collection" + "Edit this collection"?
