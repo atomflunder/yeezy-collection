@@ -5,33 +5,33 @@
         </template>
 
         <div class="h-12">
-            <div class="float-left" v-if="props.parentPage === '/index'">
+            <div class="float-left">
                 <UButton
                     :icon="
                         isCopyButtonClicked
                             ? 'i-mdi-clipboard-check-multiple-outline'
                             : 'i-mdi-clipboard-multiple-outline'
                     "
-                    :label="
-                        isCopyButtonClicked
-                            ? 'Copied to Clipboard'
-                            : 'Share Collection'
-                    "
+                    :label="isCopyButtonClicked ? 'Copied!' : 'Share'"
                     @click="copyShareUrl()"
                     variant="link"
                 />
                 <UButton
-                    icon="i-mdi-open-in-new"
-                    label="View Collection"
+                    v-if="props.parentPage === '/index'"
+                    icon="i-mdi-eye-arrow-right"
+                    label="View"
                     :to="'/' + getShareUrl()"
                     target="_blank"
                     variant="link"
                 />
-            </div>
-
-            <div class="float-left" v-else-if="props.parentPage === '/view'">
-                <!-- TODO -->
-                Placeholder
+                <UButton
+                    v-else-if="props.parentPage === '/view'"
+                    icon="i-mdi-pencil"
+                    label="Edit Yours"
+                    to="/"
+                    target="_blank"
+                    variant="link"
+                />
             </div>
 
             <div class="float-right">
