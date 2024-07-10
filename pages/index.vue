@@ -133,10 +133,6 @@ const collectionTitle: Ref<string> = ref("");
 
 let isModalOpen = ref(false);
 
-// TODO: Improve UI (a lot)
-
-// TODO: Transparent pictures of yeezys?
-
 function openModal() {
     isModalOpen.value = true;
 
