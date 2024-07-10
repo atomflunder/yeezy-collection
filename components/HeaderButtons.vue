@@ -74,11 +74,10 @@ const isDark = computed({
     },
 });
 
-// TODO: Keep the header buttons for the /view page too?
-// Maybe change them to "Start New Collection" + "Edit this collection"?
-
 function getShareUrl() {
-    return `view?title=${props.title}&items=${encodeItems(props.items)}`;
+    const title = props.title.slice(0, 80);
+
+    return `view?title=${title}&items=${encodeItems(props.items)}`;
 }
 
 let isCopyButtonClicked = ref(false);

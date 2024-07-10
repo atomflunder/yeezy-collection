@@ -2,6 +2,10 @@ import type { DatabaseItem } from "~/types";
 
 // TODO: Use an actual DB? Which one? SQLite is not ideal since it's not supported by Vercel. Supabase?
 
+export function getAllModels(): string[] {
+    return [...new Set(getAllItems().map((i) => i.modelName))];
+}
+
 export function getItemById(id: string): DatabaseItem | undefined {
     const foundItems = getAllItems().filter((i) => i.id === id);
 
@@ -20,7 +24,7 @@ export function getAllItems(): DatabaseItem[] {
             imageLink:
                 "https://images.stockx.com/360/adidas-Yeezy-Boost-700-Enflame-Amber/Images/adidas-Yeezy-Boost-700-Enflame-Amber/Lv2/img01.jpg",
             manufacturer: "Adidas",
-            modelName: "Yeezy Boost 700 Enflame Amber",
+            modelName: "Yeezy Boost 700",
             displayName: "Adidas Yeezy Boost 700 Enflame Amber",
         },
         {
@@ -29,7 +33,7 @@ export function getAllItems(): DatabaseItem[] {
             imageLink:
                 "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Zebra/Images/adidas-Yeezy-Boost-350-V2-Zebra/Lv2/img01.jpg",
             manufacturer: "Adidas",
-            modelName: "Yeezy Boost 350 V2 Zebra",
+            modelName: "Yeezy Boost 350 V2",
             displayName: "Adidas Yeezy Boost 350 V2 Zebra",
         },
         {
@@ -38,7 +42,7 @@ export function getAllItems(): DatabaseItem[] {
             imageLink:
                 "https://images.stockx.com/360/adidas-Yeezy-Boost-700-Carbon-Blue/Images/adidas-Yeezy-Boost-700-Carbon-Blue/Lv2/img01.jpg",
             manufacturer: "Adidas",
-            modelName: "Yeezy Boost 700 Carbon Blue",
+            modelName: "Yeezy Boost 700",
             displayName: "Adidas Yeezy Boost 700 Carbon Blue",
         },
         {
@@ -47,7 +51,7 @@ export function getAllItems(): DatabaseItem[] {
             imageLink:
                 "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Cream-White/Images/adidas-Yeezy-Boost-350-V2-Cream-White/Lv2/img01.jpg",
             manufacturer: "Adidas",
-            modelName: "Yeezy Boost 350 V2 Cream White",
+            modelName: "Yeezy Boost 350 V2",
             displayName: "Adidas Yeezy Boost 350 V2 Cream White",
         },
         {
@@ -56,7 +60,7 @@ export function getAllItems(): DatabaseItem[] {
             imageLink:
                 "https://images.stockx.com/360/adidas-Yeezy-450-Resin/Images/adidas-Yeezy-450-Resin/Lv2/img01.jpg",
             manufacturer: "Adidas",
-            modelName: "Yeezy 450 Resin",
+            modelName: "Yeezy 450",
             displayName: "Adidas Yeezy 450 Resin",
         },
         {
@@ -65,7 +69,7 @@ export function getAllItems(): DatabaseItem[] {
             imageLink:
                 "https://images.stockx.com/360/adidas-Yeezy-450-Cloud-White/Images/adidas-Yeezy-450-Cloud-White/Lv2/img01.jpg",
             manufacturer: "Adidas",
-            modelName: "Yeezy 450 Cloud White",
+            modelName: "Yeezy 450",
             displayName: "Adidas Yeezy 450 Cloud White",
         },
         {
@@ -74,7 +78,7 @@ export function getAllItems(): DatabaseItem[] {
             imageLink:
                 "https://images.stockx.com/360/adidas-Yeezy-450-Utility-Black/Images/adidas-Yeezy-450-Utility-Black/Lv2/img01.jpg",
             manufacturer: "Adidas",
-            modelName: "Yeezy 450 Utility Black",
+            modelName: "Yeezy 450",
             displayName: "Adidas Yeezy 450 Utility Black",
         },
         {
@@ -83,7 +87,7 @@ export function getAllItems(): DatabaseItem[] {
             imageLink:
                 "https://images.stockx.com/360/adidas-Yeezy-450-Stone-Teal/Images/adidas-Yeezy-450-Stone-Teal/Lv2/img01.jpg",
             manufacturer: "Adidas",
-            modelName: "Yeezy 450 Stone Teal",
+            modelName: "Yeezy 450",
             displayName: "Adidas Yeezy 450 Stone Teal",
         },
     ];
