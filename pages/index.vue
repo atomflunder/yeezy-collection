@@ -57,7 +57,14 @@
                 :search-attributes="['displayName']"
             >
                 <template #option="{ option: collectionItem }">
-                    <span> {{ collectionItem.displayName }}</span>
+                    <span>
+                        <UAvatar
+                            :src="collectionItem.imageLink"
+                            img-class="rounded-none h-9 w-12"
+                            class="h-10 w-16"
+                        />
+                        {{ collectionItem.displayName }}
+                    </span>
                 </template>
 
                 <template #option-empty="{ query }">
