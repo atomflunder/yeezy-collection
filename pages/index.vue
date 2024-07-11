@@ -54,7 +54,7 @@
                 :options="allItems"
                 searchable
                 placeholder="Search for Yeezys"
-                :search-attributes="['item.displayName']"
+                :search-attributes="['displayName']"
             >
                 <template #option="{ option: collectionItem }">
                     <span> {{ collectionItem.displayName }}</span>
