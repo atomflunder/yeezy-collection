@@ -27,7 +27,7 @@
 
 <script setup lang="ts">
 import type { CollectionItem } from "~/types";
-import { getAllModels } from "~/utils/mockDB";
+import { getAllModels } from "~/utils/items";
 
 // This site will allow you to view your/others' collections.
 

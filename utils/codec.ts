@@ -1,5 +1,5 @@
 import type { CollectionItem } from "~/types";
-import { getItemById } from "./mockDB";
+import { getItemById } from "./items";
 import { Buffer } from "buffer";
 
 export function encodeItems(items: CollectionItem[]): string {
