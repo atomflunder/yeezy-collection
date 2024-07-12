@@ -1,6 +1,6 @@
+import type { DatabaseItem } from "~/types";
+
 export const allSizes = [
-    "3US",
-    "3.5US",
     "4US",
     "4.5US",
     "5US",
@@ -26,8 +26,36 @@ export const allSizes = [
     "15US",
     "15.5US",
     "16US",
-    "16.5US",
-    "17US",
-    "17.5US",
-    "18US",
 ];
+
+export const fullSizes = [
+    "4US",
+    "5US",
+    "6US",
+    "7US",
+    "8US",
+    "9US",
+    "10US",
+    "11US",
+    "12US",
+    "13US",
+    "14US",
+    "15US",
+    "16US",
+];
+
+export const podSizes = ["1", "2", "3"];
+
+export function getSizes(item: DatabaseItem): string[] {
+    if (item.manufacturer === "YZY" && item.modelName === "Pods") {
+        return podSizes;
+    } else if (
+        item.modelName === "Foam RNNR" ||
+        item.modelName === "Foam RNR" // Name got changed in ~2022
+    ) {
+        return fullSizes;
+    }
+
+    return allSizes;
+}
+

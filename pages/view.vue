@@ -39,6 +39,9 @@ if (!query.items) {
     await navigateTo("/");
 }
 
+// TODO: Add a "approximate value"?
+// How would you get that? StockX?
+
 const decodedItems = decodeItems(query.items as string);
 const groups = getAllModels();
 

@@ -5,9 +5,7 @@ import { Buffer } from "buffer";
 export function encodeItems(items: CollectionItem[]): string {
     return (
         Buffer.from(
-            items
-                .map((i) => `${i.item.id}-${i.size.replace("US", "")},`)
-                .join(""),
+            items.map((i) => `${i.item.id}-${i.size},`).join(""),
             "binary"
         )
             .toString("base64")
@@ -25,14 +23,13 @@ export function decodeItems(str: string): CollectionItem[] {
         .toString("binary")
         .split(",")
         .map((i) => {
-            const [rawItem, rawSize] = i.split("-");
+            const [rawItem, size] = i.split("-");
 
-            if (!rawItem || !rawSize) {
+            if (!rawItem || !size) {
                 return undefined;
             }
 
             const item = getItemById(rawItem);
-            const size = `${rawSize}US`;
 
             if (item && allSizes.includes(size)) {
                 return {

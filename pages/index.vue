@@ -41,13 +41,13 @@
                 />
             </span>
 
-            <UInputMenu
+            <USelectMenu
                 v-model="currentlySelectedSize"
-                :options="allSizes"
+                :options="getSizes(currentlySelectedYeezy)"
                 placeholder="Select Your Size"
                 v-if="currentlySelectedYeezy !== undefined"
             >
-            </UInputMenu>
+            </USelectMenu>
 
             <UInputMenu
                 v-model="currentlySelectedYeezy"
@@ -129,6 +129,7 @@
 <script setup lang="ts">
 import { useItemStore } from "~/stores/itemStore";
 import type { DatabaseItem } from "~/types";
+import { getSizes } from "~/utils/sizes";
 
 const allItems: DatabaseItem[] = getAllItems();
 
@@ -143,7 +144,7 @@ let isModalOpen = ref(false);
 function openModal() {
     isModalOpen.value = true;
 
-    // Only resetting the selected Yeezy, not the selected size.
+    currentlySelectedSize.value = undefined;
     currentlySelectedYeezy.value = undefined;
 }
 

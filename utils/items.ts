@@ -28,7 +28,7 @@ TODO:
 https://stockx.com/yeezy/qntm/release-date?size_types=men
 
 Done:
-- 350
+- 350 + 350 Cleat
 - 350 V2
 - 350 V2 CMPCT
 - 380
@@ -36,13 +36,11 @@ Done:
 - 500
 - 500 High
 - 500 High Tactical Boots
-
-Not Done Yet:
 - 700
 - 700 V2
 - 700 V3
 - 700 MNVN
-- 750 + 750 Cleats (Black + Tan)
+- 750 + 750 Cleats
 - 950
 - 1050
 - Desert Boots + Knit Runner Boot + Insulated Boot
@@ -51,9 +49,12 @@ Not Done Yet:
 - Powerphases
 - Slides
 - QNTMs
+- Pods
+- Air Yeezy 1s
+- Air Yeezy 2s
 
-- All Nike Yeezys
-- All YZY Yeezys
-- All Yeezy Season Yeezys?
+Not Done Yet:
+ 
+- All Yeezy Season Yeezys      https://stockx.com/search/sneakers/release-date?s=yeezy+season&page=2
 */
 

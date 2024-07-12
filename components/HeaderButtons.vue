@@ -91,6 +91,8 @@ async function copyShareUrl() {
         isCopyButtonClicked.value = false;
     }, 2000);
 }
+
+// TODO: Generate Image Button
 </script>
 
 <style scoped></style>
