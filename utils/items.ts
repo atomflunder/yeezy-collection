@@ -23,38 +23,6 @@ export function getAllItems(): DatabaseItem[] {
     return items.yeezys;
 }
 
-/*
-TODO:
-https://stockx.com/yeezy/qntm/release-date?size_types=men
-
-Done:
-- 350 + 350 Cleat
-- 350 V2
-- 350 V2 CMPCT
-- 380
-- 450
-- 500
-- 500 High
-- 500 High Tactical Boots
-- 700
-- 700 V2
-- 700 V3
-- 700 MNVN
-- 750 + 750 Cleats
-- 950
-- 1050
-- Desert Boots + Knit Runner Boot + Insulated Boot
-- Foam Runners
-- Knit Runners
-- Powerphases
-- Slides
-- QNTMs
-- Pods
-- Air Yeezy 1s
-- Air Yeezy 2s
-
-Not Done Yet:
- 
-- All Yeezy Season Yeezys      https://stockx.com/search/sneakers/release-date?s=yeezy+season&page=2
-*/
+// TODO: Add All Yeezy Season Yeezys: https://stockx.com/search/sneakers/release-date?s=yeezy+season&page=2
+// Also double check if there aren't any missed Yeezys, some were 100% missing from the StockX categories.
 
