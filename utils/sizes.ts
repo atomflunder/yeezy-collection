@@ -47,12 +47,17 @@ export const fullSizes = [
 export const podSizes = ["1", "2", "3"];
 
 export function getSizes(item: DatabaseItem): string[] {
+    const fullSizeModels = [
+        "Yeezy Foam RNR",
+        "Yeezy Slide",
+        "Yeezy 450 Slide",
+        "Yeezy Knit RNR Boot",
+        "Yeezy NSLTD Boot",
+    ];
+
     if (item.manufacturer === "YZY" && item.modelName === "Pods") {
         return podSizes;
-    } else if (
-        item.modelName === "Foam RNNR" ||
-        item.modelName === "Foam RNR" // Name got changed in ~2022
-    ) {
+    } else if (fullSizeModels.includes(item.modelName)) {
         return fullSizes;
     }
 
