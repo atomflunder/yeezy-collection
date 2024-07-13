@@ -57,7 +57,7 @@ const props = defineProps<{
 }>();
 
 function getShareUrl() {
-    const title = props.title.slice(0, 80);
+    const title = props.title.slice(0, 60);
 
     return `view?title=${title}&items=${encodeItems(props.items)}`;
 }
