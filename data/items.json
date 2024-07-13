@@ -646,7 +646,7 @@
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
             "displayName": "Adidas Yeezy Boost 350 V2 MX Rock",
-            "retailPrice": 0
+            "retailPrice": 220
         },
         {
             "id": "70",
@@ -2330,7 +2330,7 @@
             "manufacturer": "Adidas",
             "modelName": "Yeezy QNTM",
             "displayName": "Adidas Yeezy QNTM Sea Teal",
-            "retailPrice": 0
+            "retailPrice": 250
         },
         {
             "id": "257",
@@ -2744,7 +2744,7 @@
             "manufacturer": "Yeezy",
             "modelName": "Yeezy Military Boot Season 2",
             "displayName": "Yeezy Military Boot Season 2 Oil",
-            "retailPrice": 0
+            "retailPrice": 645
         }
     ]
 }
