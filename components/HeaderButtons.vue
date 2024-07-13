@@ -36,14 +36,6 @@
 
             <div class="float-right">
                 <UButton
-                    :icon="
-                        isDark ? 'i-mdi-weather-night' : 'i-mdi-weather-sunny'
-                    "
-                    color="gray"
-                    variant="ghost"
-                    @click="isDark = !isDark"
-                />
-                <UButton
                     icon="i-mdi-github"
                     to="/github"
                     target="_blank"
@@ -63,16 +55,6 @@ const props = defineProps<{
     items: CollectionItem[];
     parentPage: "/index" | "/view";
 }>();
-
-const colorMode = useColorMode();
-const isDark = computed({
-    get() {
-        return colorMode.value === "dark";
-    },
-    set() {
-        colorMode.preference = colorMode.value === "dark" ? "light" : "dark";
-    },
-});
 
 function getShareUrl() {
     const title = props.title.slice(0, 80);
