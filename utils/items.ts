@@ -19,6 +19,3 @@ export function getAllItems(): DatabaseItem[] {
     return items.yeezys;
 }
 
-// TODO: Add All Yeezy Season Yeezys: https://stockx.com/search/sneakers/release-date?s=yeezy+season&page=2
-// Also double check if there aren't any missed Yeezys, some were 100% missing from the StockX categories.
-
