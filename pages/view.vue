@@ -29,7 +29,6 @@
 
 <script setup lang="ts">
 import type { CollectionItem } from "~/types";
-import { getAllModels } from "~/utils/items";
 
 // This site will allow you to view your/others' collections.
 
@@ -46,8 +45,9 @@ if (!query.items) {
 
 // TODO: Add a approximate value for the recent price on StockX?
 
-const decodedItems = decodeItems(query.items as string);
-const groups = getAllModels();
+const decodedItems = await decodeItems(query.items as string);
+const { data: apiResponse } = await useFetch("/api/yeezys/models");
+const groups = apiResponse.value?.item || [];
 
 const groupedItems: CollectionItem[][] = [];
 

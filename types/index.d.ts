@@ -1,5 +1,5 @@
 export type DatabaseItem = {
-    id: string;
+    id: number;
     displayName: string;
     imageLink: string;
     manufacturer: string;

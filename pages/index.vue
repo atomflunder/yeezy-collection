@@ -124,7 +124,8 @@ import { useItemStore } from "~/stores/itemStore";
 import type { DatabaseItem } from "~/types";
 import { getSizes } from "~/utils/sizes";
 
-const allItems: DatabaseItem[] = getAllItems();
+const { data: apiResponse } = await useFetch("/api/yeezys");
+const allItems = apiResponse.value?.items;
 
 const currentlySelectedYeezy: Ref<DatabaseItem | undefined> = ref();
 const currentlySelectedSize: Ref<string | undefined> = ref();

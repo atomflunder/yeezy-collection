@@ -1,5 +1,5 @@
 import type { CollectionItem } from "~/types";
-import { getItemById } from "./items";
+
 import { Buffer } from "buffer";
 
 export function encodeItems(items: CollectionItem[]): string {
@@ -16,8 +16,11 @@ export function encodeItems(items: CollectionItem[]): string {
     );
 }
 
-export function decodeItems(str: string): CollectionItem[] {
+export async function decodeItems(str: string): Promise<CollectionItem[]> {
     str = str.replace("-", "+").replace("_", "/").replace("%3d", "=");
+
+    const { data: apiResponse } = await useFetch("/api/yeezys");
+    const allItems = apiResponse.value?.items;
 
     return Buffer.from(str, "base64")
         .toString("binary")
@@ -29,7 +32,7 @@ export function decodeItems(str: string): CollectionItem[] {
                 return undefined;
             }
 
-            const item = getItemById(rawItem);
+            const item = allItems?.find((i) => i.id.toString() === rawItem);
 
             if (item && allSizes.includes(size)) {
                 return {
