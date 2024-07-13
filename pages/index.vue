@@ -86,26 +86,19 @@
     </UModal>
 
     <div class="grid lg:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-2 p-4">
-        <UCard v-for="(collectionItem, i) in collectionItems">
-            <UButton
-                @click="removeItem(i)"
-                icon="i-heroicons-x-mark"
-                color="red"
-                class="rounded-full float-right"
-            />
-
-            <NuxtImg
-                :src="collectionItem.item.imageLink"
-                :alt="collectionItem.item.displayName"
-                width="200px"
-            />
-
-            <div>
-                {{ collectionItem.item.displayName }}
-                <br />
-                ({{ collectionItem.size }})
-            </div>
-        </UCard>
+        <DisplayItem
+            v-for="(collectionItem, i) in collectionItems"
+            :collection-item="collectionItem"
+        >
+            <template v-slot:removeItemButton>
+                <UButton
+                    @click="removeItem(i)"
+                    icon="i-heroicons-x-mark"
+                    color="red"
+                    class="rounded-full float-right"
+                />
+            </template>
+        </DisplayItem>
 
         <div v-if="collectionItems.length === 0">
             <UCard>

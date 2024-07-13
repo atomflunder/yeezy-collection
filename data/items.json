@@ -6,7 +6,8 @@
             "imageLink": "https://images.stockx.com/images/Adidas-Yeezy-Boost-350-Low-Turtledove-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350",
-            "displayName": "Adidas Yeezy Boost 350 Turtle Dove"
+            "displayName": "Adidas Yeezy Boost 350 Turtle Dove",
+            "retailPrice": 230
         },
         {
             "id": "2",
@@ -14,7 +15,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-Low-Pirate-Black-2015-Product.png",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350",
-            "displayName": "Adidas Yeezy Boost 350 Pirate Black"
+            "displayName": "Adidas Yeezy Boost 350 Pirate Black",
+            "retailPrice": 230
         },
         {
             "id": "3",
@@ -22,7 +24,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-Low-Oxford-Tan-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350",
-            "displayName": "Adidas Yeezy Boost 350 Moonrock"
+            "displayName": "Adidas Yeezy Boost 350 Moonrock",
+            "retailPrice": 230
         },
         {
             "id": "4",
@@ -30,7 +33,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-Low-Pirate-Black-2016-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350",
-            "displayName": "Adidas Yeezy Boost 350 Oxford Tan"
+            "displayName": "Adidas Yeezy Boost 350 Oxford Tan",
+            "retailPrice": 230
         },
         {
             "id": "5",
@@ -38,7 +42,8 @@
             "imageLink": "https://images.stockx.com/360/adidas-Yeezy-350-Cleat-Turtledove/Images/adidas-Yeezy-350-Cleat-Turtledove/Lv2/img01.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 Cleat",
-            "displayName": "Adidas Yeezy Boost 350 Cleat Turtle Dove"
+            "displayName": "Adidas Yeezy Boost 350 Cleat Turtle Dove",
+            "retailPrice": 250
         },
         {
             "id": "6",
@@ -46,7 +51,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-Low-V2-Beluga-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Beluga"
+            "displayName": "Adidas Yeezy Boost 350 V2 Beluga",
+            "retailPrice": 220
         },
         {
             "id": "7",
@@ -54,7 +60,8 @@
             "imageLink": "https://images.stockx.com/images/Adidas-Yeezy-Boost-350-V2-Core-Black-Green-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Core Black Green"
+            "displayName": "Adidas Yeezy Boost 350 V2 Core Black Green",
+            "retailPrice": 220
         },
         {
             "id": "8",
@@ -62,7 +69,8 @@
             "imageLink": "https://images.stockx.com/images/Adidas-Yeezy-Boost-350-V2-Core-Black-Copper-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Black Copper"
+            "displayName": "Adidas Yeezy Boost 350 V2 Black Copper",
+            "retailPrice": 220
         },
         {
             "id": "9",
@@ -70,7 +78,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Core-Black-Red-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Core Black Red"
+            "displayName": "Adidas Yeezy Boost 350 V2 Core Black Red",
+            "retailPrice": 220
         },
         {
             "id": "10",
@@ -78,7 +87,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Core-Black-White-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Core Black White"
+            "displayName": "Adidas Yeezy Boost 350 V2 Core Black White",
+            "retailPrice": 220
         },
         {
             "id": "11",
@@ -86,7 +96,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Core-Black-Red-2017-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Black Red"
+            "displayName": "Adidas Yeezy Boost 350 V2 Black Red",
+            "retailPrice": 220
         },
         {
             "id": "12",
@@ -94,7 +105,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Cream-White-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Cream"
+            "displayName": "Adidas Yeezy Boost 350 V2 Cream",
+            "retailPrice": 220
         },
         {
             "id": "13",
@@ -102,7 +114,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Semi-Frozen-Yellow-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Semi Frozen Yellow"
+            "displayName": "Adidas Yeezy Boost 350 V2 Semi Frozen Yellow",
+            "retailPrice": 220
         },
         {
             "id": "14",
@@ -110,7 +123,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Beluga-2pt0-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Beluga 2.0"
+            "displayName": "Adidas Yeezy Boost 350 V2 Beluga 2.0",
+            "retailPrice": 220
         },
         {
             "id": "15",
@@ -118,7 +132,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Blue-Tint-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Blue Tint"
+            "displayName": "Adidas Yeezy Boost 350 V2 Blue Tint",
+            "retailPrice": 220
         },
         {
             "id": "15a",
@@ -126,7 +141,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Zebra-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Zebra"
+            "displayName": "Adidas Yeezy Boost 350 V2 Zebra",
+            "retailPrice": 220
         },
         {
             "id": "16",
@@ -134,7 +150,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Butter-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Butter"
+            "displayName": "Adidas Yeezy Boost 350 V2 Butter",
+            "retailPrice": 220
         },
         {
             "id": "17",
@@ -142,7 +159,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Sesame-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Sesame"
+            "displayName": "Adidas Yeezy Boost 350 V2 Sesame",
+            "retailPrice": 220
         },
         {
             "id": "17a",
@@ -150,7 +168,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Zyon-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Zyon"
+            "displayName": "Adidas Yeezy Boost 350 V2 Zyon",
+            "retailPrice": 220
         },
         {
             "id": "17b",
@@ -158,7 +177,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Oreo.png",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Oreo"
+            "displayName": "Adidas Yeezy Boost 350 V2 Oreo",
+            "retailPrice": 220
         },
         {
             "id": "18",
@@ -166,7 +186,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Static-Reflective-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Static (Reflective)"
+            "displayName": "Adidas Yeezy Boost 350 V2 Static (Reflective)",
+            "retailPrice": 220
         },
         {
             "id": "19",
@@ -174,7 +195,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-True-Form-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 True Form"
+            "displayName": "Adidas Yeezy Boost 350 V2 True Form",
+            "retailPrice": 220
         },
         {
             "id": "20",
@@ -182,7 +204,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Hyperspace-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Hyperspace"
+            "displayName": "Adidas Yeezy Boost 350 V2 Hyperspace",
+            "retailPrice": 220
         },
         {
             "id": "21",
@@ -190,7 +213,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Clay-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Clay"
+            "displayName": "Adidas Yeezy Boost 350 V2 Clay",
+            "retailPrice": 220
         },
         {
             "id": "22",
@@ -198,7 +222,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Glow-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Glow"
+            "displayName": "Adidas Yeezy Boost 350 V2 Glow",
+            "retailPrice": 220
         },
         {
             "id": "23",
@@ -206,7 +231,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Static-Black-Reflective-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Static Black (Reflective)"
+            "displayName": "Adidas Yeezy Boost 350 V2 Static Black (Reflective)",
+            "retailPrice": 220
         },
         {
             "id": "24",
@@ -214,7 +240,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Black-Non-Reflective-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Black (Non-Reflective)"
+            "displayName": "Adidas Yeezy Boost 350 V2 Black (Non-Reflective)",
+            "retailPrice": 220
         },
         {
             "id": "25",
@@ -222,7 +249,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Synth-Reflective-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Synth (Reflective)"
+            "displayName": "Adidas Yeezy Boost 350 V2 Synth (Reflective)",
+            "retailPrice": 220
         },
         {
             "id": "26",
@@ -230,7 +258,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Synth-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Synth (Non-Reflective)"
+            "displayName": "Adidas Yeezy Boost 350 V2 Synth (Non-Reflective)",
+            "retailPrice": 220
         },
         {
             "id": "27",
@@ -238,7 +267,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Antlia-Reflective-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Antlia (Reflective)"
+            "displayName": "Adidas Yeezy Boost 350 V2 Antlia (Reflective)",
+            "retailPrice": 220
         },
         {
             "id": "28",
@@ -246,7 +276,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Antlia-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Antlia (Non-Reflective)"
+            "displayName": "Adidas Yeezy Boost 350 V2 Antlia (Non-Reflective)",
+            "retailPrice": 220
         },
         {
             "id": "29",
@@ -254,7 +285,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Lundmark-Reflective-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Lundmark (Reflective)"
+            "displayName": "Adidas Yeezy Boost 350 V2 Lundmark (Reflective)",
+            "retailPrice": 220
         },
         {
             "id": "30",
@@ -262,7 +294,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Lundmark-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Lundmark (Non-Reflective)"
+            "displayName": "Adidas Yeezy Boost 350 V2 Lundmark (Non-Reflective)",
+            "retailPrice": 220
         },
         {
             "id": "31",
@@ -270,7 +303,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Cloud-White-Reflective-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Cloud White (Non-Reflective)"
+            "displayName": "Adidas Yeezy Boost 350 V2 Cloud White (Non-Reflective)",
+            "retailPrice": 220
         },
         {
             "id": "32",
@@ -278,7 +312,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Cloud-White-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Cloud White (Non-Reflective)"
+            "displayName": "Adidas Yeezy Boost 350 V2 Cloud White (Non-Reflective)",
+            "retailPrice": 220
         },
         {
             "id": "33",
@@ -286,7 +321,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Citrin-Reflective-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Citrin (Reflective)"
+            "displayName": "Adidas Yeezy Boost 350 V2 Citrin (Reflective)",
+            "retailPrice": 220
         },
         {
             "id": "34",
@@ -294,7 +330,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Citrin-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Citrin (Non-Reflective)"
+            "displayName": "Adidas Yeezy Boost 350 V2 Citrin (Non-Reflective)",
+            "retailPrice": 220
         },
         {
             "id": "35",
@@ -302,7 +339,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Yeezreel-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Yeezreel (Reflective)"
+            "displayName": "Adidas Yeezy Boost 350 V2 Yeezreel (Reflective)",
+            "retailPrice": 220
         },
         {
             "id": "36",
@@ -310,7 +348,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Yeezreel-Reflective-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Yeezreel (Non-Reflective)"
+            "displayName": "Adidas Yeezy Boost 350 V2 Yeezreel (Non-Reflective)",
+            "retailPrice": 220
         },
         {
             "id": "37",
@@ -318,7 +357,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Yecheil-Reflective-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Yecheil (Reflective)"
+            "displayName": "Adidas Yeezy Boost 350 V2 Yecheil (Reflective)",
+            "retailPrice": 220
         },
         {
             "id": "38",
@@ -326,7 +366,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Yecheil-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Yecheil (Non-Reflective)"
+            "displayName": "Adidas Yeezy Boost 350 V2 Yecheil (Non-Reflective)",
+            "retailPrice": 220
         },
         {
             "id": "39",
@@ -334,7 +375,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Yeshaya-Reflective-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Yeshaya (Reflective)"
+            "displayName": "Adidas Yeezy Boost 350 V2 Yeshaya (Reflective)",
+            "retailPrice": 220
         },
         {
             "id": "40",
@@ -342,7 +384,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Yeshaya-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Yeshaya (Non-Reflective)"
+            "displayName": "Adidas Yeezy Boost 350 V2 Yeshaya (Non-Reflective)",
+            "retailPrice": 220
         },
         {
             "id": "41",
@@ -350,7 +393,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Marsh-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Marsh"
+            "displayName": "Adidas Yeezy Boost 350 V2 Marsh",
+            "retailPrice": 220
         },
         {
             "id": "42",
@@ -358,7 +402,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Earth-Product_V2.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Earth"
+            "displayName": "Adidas Yeezy Boost 350 V2 Earth",
+            "retailPrice": 220
         },
         {
             "id": "43",
@@ -366,7 +411,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Tail-Light-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Tail Light"
+            "displayName": "Adidas Yeezy Boost 350 V2 Tail Light",
+            "retailPrice": 220
         },
         {
             "id": "44",
@@ -374,7 +420,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Desert-Sage-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Desert Sage"
+            "displayName": "Adidas Yeezy Boost 350 V2 Desert Sage",
+            "retailPrice": 220
         },
         {
             "id": "45",
@@ -382,7 +429,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Cinder-Reflective-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Cinder (Reflective)"
+            "displayName": "Adidas Yeezy Boost 350 V2 Cinder (Reflective)",
+            "retailPrice": 220
         },
         {
             "id": "46",
@@ -390,7 +438,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Linen-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Linen"
+            "displayName": "Adidas Yeezy Boost 350 V2 Linen",
+            "retailPrice": 220
         },
         {
             "id": "47",
@@ -398,7 +447,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Sulfur-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Sulfur"
+            "displayName": "Adidas Yeezy Boost 350 V2 Sulfur",
+            "retailPrice": 220
         },
         {
             "id": "48",
@@ -406,7 +456,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Israfil-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Israfil"
+            "displayName": "Adidas Yeezy Boost 350 V2 Israfil",
+            "retailPrice": 220
         },
         {
             "id": "49",
@@ -414,7 +465,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Carbon-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Carbon"
+            "displayName": "Adidas Yeezy Boost 350 V2 Carbon",
+            "retailPrice": 220
         },
         {
             "id": "50",
@@ -422,7 +474,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Natural-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Natural"
+            "displayName": "Adidas Yeezy Boost 350 V2 Natural",
+            "retailPrice": 220
         },
         {
             "id": "51",
@@ -430,7 +483,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Yecher-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Fade"
+            "displayName": "Adidas Yeezy Boost 350 V2 Fade",
+            "retailPrice": 220
         },
         {
             "id": "52",
@@ -438,7 +492,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Eliada-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Sand Taupe"
+            "displayName": "Adidas Yeezy Boost 350 V2 Sand Taupe",
+            "retailPrice": 220
         },
         {
             "id": "53",
@@ -446,7 +501,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Ash-Stone-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Ash Stone"
+            "displayName": "Adidas Yeezy Boost 350 V2 Ash Stone",
+            "retailPrice": 220
         },
         {
             "id": "54",
@@ -454,7 +510,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Ash-Blue-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Ash Blue"
+            "displayName": "Adidas Yeezy Boost 350 V2 Ash Blue",
+            "retailPrice": 220
         },
         {
             "id": "55",
@@ -462,7 +519,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Ash-Pearl-2021-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Ash Pearl"
+            "displayName": "Adidas Yeezy Boost 350 V2 Ash Pearl",
+            "retailPrice": 220
         },
         {
             "id": "56",
@@ -470,7 +528,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Mono-Mist-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Mono Mist"
+            "displayName": "Adidas Yeezy Boost 350 V2 Mono Mist",
+            "retailPrice": 220
         },
         {
             "id": "57",
@@ -478,7 +537,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Mono-Ice-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Mono Ice"
+            "displayName": "Adidas Yeezy Boost 350 V2 Mono Ice",
+            "retailPrice": 220
         },
         {
             "id": "58",
@@ -486,7 +546,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Mono-Clay-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Mono Clay"
+            "displayName": "Adidas Yeezy Boost 350 V2 Mono Clay",
+            "retailPrice": 220
         },
         {
             "id": "59",
@@ -494,7 +555,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Mono-Cinder-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Mono Cinder"
+            "displayName": "Adidas Yeezy Boost 350 V2 Mono Cinder",
+            "retailPrice": 220
         },
         {
             "id": "60",
@@ -502,7 +564,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Light-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Light"
+            "displayName": "Adidas Yeezy Boost 350 V2 Light",
+            "retailPrice": 220
         },
         {
             "id": "61",
@@ -510,7 +573,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Beluga-Reflective-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Beluga (Reflective)"
+            "displayName": "Adidas Yeezy Boost 350 V2 Beluga (Reflective)",
+            "retailPrice": 220
         },
         {
             "id": "62",
@@ -518,7 +582,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Dazzling-Blue-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Dazzling Blue"
+            "displayName": "Adidas Yeezy Boost 350 V2 Dazzling Blue",
+            "retailPrice": 220
         },
         {
             "id": "63",
@@ -526,7 +591,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-MX-Frost-Blue.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 MX Frost Blue"
+            "displayName": "Adidas Yeezy Boost 350 V2 MX Frost Blue",
+            "retailPrice": 220
         },
         {
             "id": "64",
@@ -534,7 +600,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Onyx-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Onyx"
+            "displayName": "Adidas Yeezy Boost 350 V2 Onyx",
+            "retailPrice": 220
         },
         {
             "id": "65",
@@ -542,7 +609,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Pure-Oat-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Bone"
+            "displayName": "Adidas Yeezy Boost 350 V2 Bone",
+            "retailPrice": 220
         },
         {
             "id": "66",
@@ -550,7 +618,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Slate-Core-Black-Slate_360_V2_01.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Slate"
+            "displayName": "Adidas Yeezy Boost 350 V2 Slate",
+            "retailPrice": 220
         },
         {
             "id": "67",
@@ -558,7 +627,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Jade-Ash-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Salt"
+            "displayName": "Adidas Yeezy Boost 350 V2 Salt",
+            "retailPrice": 220
         },
         {
             "id": "68",
@@ -566,7 +636,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Flax-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Flax"
+            "displayName": "Adidas Yeezy Boost 350 V2 Flax",
+            "retailPrice": 220
         },
         {
             "id": "69",
@@ -574,7 +645,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-MX-Rock-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 MX Rock"
+            "displayName": "Adidas Yeezy Boost 350 V2 MX Rock",
+            "retailPrice": 0
         },
         {
             "id": "70",
@@ -582,7 +654,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-MX-Oat-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 MX Oat"
+            "displayName": "Adidas Yeezy Boost 350 V2 MX Oat",
+            "retailPrice": 220
         },
         {
             "id": "71",
@@ -590,7 +663,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Static-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Static (Non-Reflective)"
+            "displayName": "Adidas Yeezy Boost 350 V2 Static (Non-Reflective)",
+            "retailPrice": 220
         },
         {
             "id": "72",
@@ -598,7 +672,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-350-V2-Carbon-Beluga-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2",
-            "displayName": "Adidas Yeezy Boost 350 V2 Carbon Beluga"
+            "displayName": "Adidas Yeezy Boost 350 V2 Carbon Beluga",
+            "retailPrice": 220
         },
         {
             "id": "73",
@@ -606,7 +681,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-350-V2-CMPCT-Slate-Blue-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2 CMPCT",
-            "displayName": "Adidas Yeezy Boost 350 V2 CMPCT Slate Blue"
+            "displayName": "Adidas Yeezy Boost 350 V2 CMPCT Slate Blue",
+            "retailPrice": 230
         },
         {
             "id": "74",
@@ -614,7 +690,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-350-V2-CMPCT-Slate-Red-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2 CMPCT",
-            "displayName": "Adidas Yeezy Boost 350 V2 CMPCT Slate Red"
+            "displayName": "Adidas Yeezy Boost 350 V2 CMPCT Slate Red",
+            "retailPrice": 230
         },
         {
             "id": "75",
@@ -622,7 +699,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-350-V2-CMPCT-Slate-Carbon-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2 CMPCT",
-            "displayName": "Adidas Yeezy Boost 350 V2 CMPCT Slate Carbon"
+            "displayName": "Adidas Yeezy Boost 350 V2 CMPCT Slate Carbon",
+            "retailPrice": 230
         },
         {
             "id": "76",
@@ -630,7 +708,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-350-V2-CMPCT-Slate-Bone-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2 CMPCT",
-            "displayName": "Adidas Yeezy Boost 350 V2 CMPCT Slate Bone"
+            "displayName": "Adidas Yeezy Boost 350 V2 CMPCT Slate Bone",
+            "retailPrice": 230
         },
         {
             "id": "77",
@@ -638,7 +717,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-350-V2-CMPCT-Panda-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2 CMPCT",
-            "displayName": "Adidas Yeezy Boost 350 V2 CMPCT Slate Panda"
+            "displayName": "Adidas Yeezy Boost 350 V2 CMPCT Slate Panda",
+            "retailPrice": 230
         },
         {
             "id": "78",
@@ -646,7 +726,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-350-V2-CMPCT-Slate-Onyx-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 350 V2 CMPCT",
-            "displayName": "Adidas Yeezy Boost 350 V2 CMPCT Slate Onyx"
+            "displayName": "Adidas Yeezy Boost 350 V2 CMPCT Slate Onyx",
+            "retailPrice": 230
         },
         {
             "id": "79",
@@ -654,7 +735,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-380-Alien-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 380",
-            "displayName": "Adidas Yeezy Boost 380 Alien"
+            "displayName": "Adidas Yeezy Boost 380 Alien",
+            "retailPrice": 230
         },
         {
             "id": "80",
@@ -662,7 +744,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-380-Mist-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 380",
-            "displayName": "Adidas Yeezy Boost 380 Mist"
+            "displayName": "Adidas Yeezy Boost 380 Mist",
+            "retailPrice": 230
         },
         {
             "id": "81",
@@ -670,7 +753,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-380-Blue-Oat-Reflective-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 380",
-            "displayName": "Adidas Yeezy Boost 380 Blue Oat Reflective"
+            "displayName": "Adidas Yeezy Boost 380 Blue Oat Reflective",
+            "retailPrice": 230
         },
         {
             "id": "82",
@@ -678,7 +762,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-380-Blue-Oat-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 380",
-            "displayName": "Adidas Yeezy Boost 380 Blue Oat"
+            "displayName": "Adidas Yeezy Boost 380 Blue Oat",
+            "retailPrice": 230
         },
         {
             "id": "83",
@@ -686,7 +771,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-380-Pepper-Reflective-Product.png",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 380",
-            "displayName": "Adidas Yeezy Boost 380 Pepper Reflective"
+            "displayName": "Adidas Yeezy Boost 380 Pepper Reflective",
+            "retailPrice": 230
         },
         {
             "id": "84",
@@ -694,7 +780,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-380-Pepper-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 380",
-            "displayName": "Adidas Yeezy Boost 380 Pepper"
+            "displayName": "Adidas Yeezy Boost 380 Pepper",
+            "retailPrice": 230
         },
         {
             "id": "85",
@@ -702,7 +789,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-380-Calcite-Glow-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 380",
-            "displayName": "Adidas Yeezy Boost 380 Calcite Glow"
+            "displayName": "Adidas Yeezy Boost 380 Calcite Glow",
+            "retailPrice": 230
         },
         {
             "id": "86",
@@ -710,7 +798,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-380-Onyx-Reflective-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 380",
-            "displayName": "Adidas Yeezy Boost 380 Onyx Reflective"
+            "displayName": "Adidas Yeezy Boost 380 Onyx Reflective",
+            "retailPrice": 230
         },
         {
             "id": "87",
@@ -718,7 +807,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-380-Onyx-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 380",
-            "displayName": "Adidas Yeezy Boost 380 Onyx"
+            "displayName": "Adidas Yeezy Boost 380 Onyx",
+            "retailPrice": 230
         },
         {
             "id": "88",
@@ -726,7 +816,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-380-Lmnte-Reflective-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 380",
-            "displayName": "Adidas Yeezy Boost 380 Lmnte Reflective"
+            "displayName": "Adidas Yeezy Boost 380 Lmnte Reflective",
+            "retailPrice": 230
         },
         {
             "id": "89",
@@ -734,7 +825,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-380-Lmnte.png",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 380",
-            "displayName": "Adidas Yeezy Boost 380 Lmnte"
+            "displayName": "Adidas Yeezy Boost 380 Lmnte",
+            "retailPrice": 230
         },
         {
             "id": "90",
@@ -742,7 +834,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-380-Azure-Reflective-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 380",
-            "displayName": "Adidas Yeezy Boost 380 Azure Reflective"
+            "displayName": "Adidas Yeezy Boost 380 Azure Reflective",
+            "retailPrice": 230
         },
         {
             "id": "91",
@@ -750,7 +843,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-380-Azure-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 380",
-            "displayName": "Adidas Yeezy Boost 380 Azure"
+            "displayName": "Adidas Yeezy Boost 380 Azure",
+            "retailPrice": 230
         },
         {
             "id": "92",
@@ -758,7 +852,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-380-Hylte-Glow-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 380",
-            "displayName": "Adidas Yeezy Boost 380 Hylte Glow"
+            "displayName": "Adidas Yeezy Boost 380 Hylte Glow",
+            "retailPrice": 230
         },
         {
             "id": "93",
@@ -766,7 +861,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-380-Hylte-Glow-Reflective-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 380",
-            "displayName": "Adidas Yeezy Boost 380 Hylte"
+            "displayName": "Adidas Yeezy Boost 380 Hylte",
+            "retailPrice": 230
         },
         {
             "id": "94",
@@ -774,7 +870,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-380-Yecoraite-Reflective-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 380",
-            "displayName": "Adidas Yeezy Boost 380 Yecoraite Reflective"
+            "displayName": "Adidas Yeezy Boost 380 Yecoraite Reflective",
+            "retailPrice": 230
         },
         {
             "id": "95",
@@ -782,7 +879,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-380-Covellite-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 380",
-            "displayName": "Adidas Yeezy Boost 380 Covellite"
+            "displayName": "Adidas Yeezy Boost 380 Covellite",
+            "retailPrice": 230
         },
         {
             "id": "96",
@@ -790,7 +888,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-380-Stone-Salt-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 380",
-            "displayName": "Adidas Yeezy Boost 380 Pyrite"
+            "displayName": "Adidas Yeezy Boost 380 Pyrite",
+            "retailPrice": 230
         },
         {
             "id": "97",
@@ -798,7 +897,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-380-Stone-Slate-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 380",
-            "displayName": "Adidas Yeezy Boost 380 Stone Salt"
+            "displayName": "Adidas Yeezy Boost 380 Stone Salt",
+            "retailPrice": 230
         },
         {
             "id": "98",
@@ -806,7 +906,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-380-Alien-Blue-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 380",
-            "displayName": "Adidas Yeezy Boost 380 Alien Blue"
+            "displayName": "Adidas Yeezy Boost 380 Alien Blue",
+            "retailPrice": 230
         },
         {
             "id": "99",
@@ -814,7 +915,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-450-Dark-Slate-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy 450",
-            "displayName": "Adidas Yeezy 450 Dark Slate"
+            "displayName": "Adidas Yeezy 450 Dark Slate",
+            "retailPrice": 200
         },
         {
             "id": "100",
@@ -822,7 +924,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-450-Resin-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy 450",
-            "displayName": "Adidas Yeezy 450 Resin"
+            "displayName": "Adidas Yeezy 450 Resin",
+            "retailPrice": 200
         },
         {
             "id": "101",
@@ -830,7 +933,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-450-Cinder-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy 450",
-            "displayName": "Adidas Yeezy 450 Cinder"
+            "displayName": "Adidas Yeezy 450 Cinder",
+            "retailPrice": 200
         },
         {
             "id": "102",
@@ -838,7 +942,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-450-Sulfur-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy 450",
-            "displayName": "Adidas Yeezy 450 Sulfur"
+            "displayName": "Adidas Yeezy 450 Sulfur",
+            "retailPrice": 200
         },
         {
             "id": "103",
@@ -846,7 +951,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-450-Utility-Black-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy 450",
-            "displayName": "Adidas Yeezy 450 Utility Black"
+            "displayName": "Adidas Yeezy 450 Utility Black",
+            "retailPrice": 200
         },
         {
             "id": "104",
@@ -854,7 +960,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-450-Stone-Flax-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy 450",
-            "displayName": "Adidas Yeezy 450 Stone Flax"
+            "displayName": "Adidas Yeezy 450 Stone Flax",
+            "retailPrice": 200
         },
         {
             "id": "105",
@@ -862,7 +969,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-450-Cloud-White-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy 450",
-            "displayName": "Adidas Yeezy 450 Cloud White"
+            "displayName": "Adidas Yeezy 450 Cloud White",
+            "retailPrice": 200
         },
         {
             "id": "106",
@@ -870,7 +978,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-450-Stone-Teal-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy 450",
-            "displayName": "Adidas Yeezy 450 Stone Teal"
+            "displayName": "Adidas Yeezy 450 Stone Teal",
+            "retailPrice": 200
         },
         {
             "id": "107",
@@ -878,7 +987,8 @@
             "imageLink": "https://images.stockx.com/images/Adidas-Yeezy-500-Utility-Black-FF.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy 500",
-            "displayName": "Adidas Yeezy 500 Shadow Black"
+            "displayName": "Adidas Yeezy 500 Shadow Black",
+            "retailPrice": 200
         },
         {
             "id": "108",
@@ -886,7 +996,8 @@
             "imageLink": "https://images.stockx.com/images/Adidas-Yeezy-500-Utility-Black-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy 500",
-            "displayName": "Adidas Yeezy 500 Utility Black"
+            "displayName": "Adidas Yeezy 500 Utility Black",
+            "retailPrice": 200
         },
         {
             "id": "109",
@@ -894,7 +1005,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-500-Salt-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy 500",
-            "displayName": "Adidas Yeezy 500 Salt"
+            "displayName": "Adidas Yeezy 500 Salt",
+            "retailPrice": 200
         },
         {
             "id": "110",
@@ -902,7 +1014,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-500-Bone-White-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy 500",
-            "displayName": "Adidas Yeezy 500 Bone White"
+            "displayName": "Adidas Yeezy 500 Bone White",
+            "retailPrice": 200
         },
         {
             "id": "111",
@@ -910,7 +1023,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-500-Soft-Vision-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy 500",
-            "displayName": "Adidas Yeezy 500 Soft Vision"
+            "displayName": "Adidas Yeezy 500 Soft Vision",
+            "retailPrice": 200
         },
         {
             "id": "112",
@@ -918,7 +1032,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-500-Stone-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy 500",
-            "displayName": "Adidas Yeezy 500 Stone"
+            "displayName": "Adidas Yeezy 500 Stone",
+            "retailPrice": 200
         },
         {
             "id": "113",
@@ -926,7 +1041,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-500-Enflame-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy 500",
-            "displayName": "Adidas Yeezy 500 Enflame"
+            "displayName": "Adidas Yeezy 500 Enflame",
+            "retailPrice": 200
         },
         {
             "id": "114",
@@ -934,7 +1050,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-500-Taupe-Light-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy 500",
-            "displayName": "Adidas Yeezy 500 Taupe Light"
+            "displayName": "Adidas Yeezy 500 Taupe Light",
+            "retailPrice": 200
         },
         {
             "id": "115",
@@ -942,7 +1059,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-500-Brown-Clay-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy 500",
-            "displayName": "Adidas Yeezy 500 Clay Brown"
+            "displayName": "Adidas Yeezy 500 Clay Brown",
+            "retailPrice": 200
         },
         {
             "id": "116",
@@ -950,7 +1068,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-500-Ash-Grey-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy 500",
-            "displayName": "Adidas Yeezy 500 Ash Grey"
+            "displayName": "Adidas Yeezy 500 Ash Grey",
+            "retailPrice": 200
         },
         {
             "id": "117",
@@ -958,7 +1077,8 @@
             "imageLink": "https://images.stockx.com/images/Adidas-Yeezy-500-Blush-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy 500",
-            "displayName": "Adidas Yeezy 500 Blush"
+            "displayName": "Adidas Yeezy 500 Blush",
+            "retailPrice": 200
         },
         {
             "id": "118",
@@ -966,7 +1086,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-500-Granite-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy 500",
-            "displayName": "Adidas Yeezy 500 Granite"
+            "displayName": "Adidas Yeezy 500 Granite",
+            "retailPrice": 200
         },
         {
             "id": "119",
@@ -974,7 +1095,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-500-Stone-Salt-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy 500",
-            "displayName": "Adidas Yeezy 500 Stone Salt"
+            "displayName": "Adidas Yeezy 500 Stone Salt",
+            "retailPrice": 200
         },
         {
             "id": "120",
@@ -982,7 +1104,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-500-Stone-Taupe-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy 500",
-            "displayName": "Adidas Yeezy 500 Stone Taupe"
+            "displayName": "Adidas Yeezy 500 Stone Taupe",
+            "retailPrice": 200
         },
         {
             "id": "121",
@@ -990,7 +1113,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-500-Moon-Yellow-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy 500",
-            "displayName": "Adidas Yeezy 500 Super Moon Yellow"
+            "displayName": "Adidas Yeezy 500 Super Moon Yellow",
+            "retailPrice": 200
         },
         {
             "id": "122",
@@ -998,7 +1122,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-500-High-Slate-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy 500 High",
-            "displayName": "Adidas Yeezy 500 High Slate"
+            "displayName": "Adidas Yeezy 500 High Slate",
+            "retailPrice": 220
         },
         {
             "id": "123",
@@ -1006,7 +1131,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-500-High-Tyrian-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy 500 High",
-            "displayName": "Adidas Yeezy 500 High Tyrian"
+            "displayName": "Adidas Yeezy 500 High Tyrian",
+            "retailPrice": 220
         },
         {
             "id": "124",
@@ -1014,7 +1140,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-500-High-Mist-Slate-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy 500 High",
-            "displayName": "Adidas Yeezy 500 High Mist Slate"
+            "displayName": "Adidas Yeezy 500 High Mist Slate",
+            "retailPrice": 220
         },
         {
             "id": "125",
@@ -1022,7 +1149,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-500-High-Wakaran-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy 500 High",
-            "displayName": "Adidas Yeezy 500 High Shale Warm"
+            "displayName": "Adidas Yeezy 500 High Shale Warm",
+            "retailPrice": 220
         },
         {
             "id": "126",
@@ -1030,7 +1158,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-500-High-Frosted-Blue-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy 500 High",
-            "displayName": "Adidas Yeezy 500 High Frosted Blue"
+            "displayName": "Adidas Yeezy 500 High Frosted Blue",
+            "retailPrice": 220
         },
         {
             "id": "127",
@@ -1038,7 +1167,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-500-High-Sumac-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy 500 High",
-            "displayName": "Adidas Yeezy 500 High Sumac"
+            "displayName": "Adidas Yeezy 500 High Sumac",
+            "retailPrice": 220
         },
         {
             "id": "128",
@@ -1046,7 +1176,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-500-High-Tactile-Orange-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy 500 High",
-            "displayName": "Adidas Yeezy 500 High Tactile Orange"
+            "displayName": "Adidas Yeezy 500 High Tactile Orange",
+            "retailPrice": 220
         },
         {
             "id": "129",
@@ -1054,7 +1185,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-500-High-Mist-Stone-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy 500 High",
-            "displayName": "Adidas Yeezy 500 High Mist Stone"
+            "displayName": "Adidas Yeezy 500 High Mist Stone",
+            "retailPrice": 220
         },
         {
             "id": "130",
@@ -1062,7 +1194,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-500-High-Taupe-Black.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy 500 High",
-            "displayName": "Adidas Yeezy 500 High Taupe Black"
+            "displayName": "Adidas Yeezy 500 High Taupe Black",
+            "retailPrice": 220
         },
         {
             "id": "131",
@@ -1070,7 +1203,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-500-Tactical-Boot-Utility-Black-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy 500 High Tactical Boot",
-            "displayName": "Adidas Yeezy 500 High Tactical Boot Utility Black"
+            "displayName": "Adidas Yeezy 500 High Tactical Boot Utility Black",
+            "retailPrice": 300
         },
         {
             "id": "132",
@@ -1078,7 +1212,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-500-High-Tactical-Boot-Sand.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy 500 High Tactical Boot",
-            "displayName": "Adidas Yeezy 500 High Tactical Boot Sand"
+            "displayName": "Adidas Yeezy 500 High Tactical Boot Sand",
+            "retailPrice": 300
         },
         {
             "id": "133",
@@ -1086,7 +1221,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Wave-Runner-700-Solid-Grey-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 700",
-            "displayName": "Adidas Yeezy Boost 700 Wave Runner"
+            "displayName": "Adidas Yeezy Boost 700 Wave Runner",
+            "retailPrice": 300
         },
         {
             "id": "134",
@@ -1094,7 +1230,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-700-Mauve-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 700",
-            "displayName": "Adidas Yeezy Boost 700 Mauve"
+            "displayName": "Adidas Yeezy Boost 700 Mauve",
+            "retailPrice": 300
         },
         {
             "id": "135",
@@ -1102,7 +1239,8 @@
             "imageLink": "https://images.stockx.com/images/Adidas-Yeezy-Boost-700-Salt-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 700",
-            "displayName": "Adidas Yeezy Boost 700 Salt"
+            "displayName": "Adidas Yeezy Boost 700 Salt",
+            "retailPrice": 300
         },
         {
             "id": "136",
@@ -1110,7 +1248,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-700-Inertia-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 700",
-            "displayName": "Adidas Yeezy Boost 700 Inertia"
+            "displayName": "Adidas Yeezy Boost 700 Inertia",
+            "retailPrice": 300
         },
         {
             "id": "137",
@@ -1118,7 +1257,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-700-Magnet-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 700",
-            "displayName": "Adidas Yeezy Boost 700 Magnet"
+            "displayName": "Adidas Yeezy Boost 700 Magnet",
+            "retailPrice": 300
         },
         {
             "id": "138",
@@ -1126,7 +1266,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-700-Teal-Blue-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 700",
-            "displayName": "Adidas Yeezy Boost 700 Teal Blue"
+            "displayName": "Adidas Yeezy Boost 700 Teal Blue",
+            "retailPrice": 300
         },
         {
             "id": "139",
@@ -1134,7 +1275,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-700-Carbon-Blue-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 700",
-            "displayName": "Adidas Yeezy Boost 700 Carbon Blue"
+            "displayName": "Adidas Yeezy Boost 700 Carbon Blue",
+            "retailPrice": 300
         },
         {
             "id": "140",
@@ -1142,7 +1284,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-700-Sun-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 700",
-            "displayName": "Adidas Yeezy Boost 700 Sun"
+            "displayName": "Adidas Yeezy Boost 700 Sun",
+            "retailPrice": 240
         },
         {
             "id": "141",
@@ -1150,7 +1293,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-700-Bright-Blue-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 700",
-            "displayName": "Adidas Yeezy Boost 700 Bright Blue"
+            "displayName": "Adidas Yeezy Boost 700 Bright Blue",
+            "retailPrice": 240
         },
         {
             "id": "142",
@@ -1158,7 +1302,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-700-Wash-Orange-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 700",
-            "displayName": "Adidas Yeezy Boost 700 Wash Orange"
+            "displayName": "Adidas Yeezy Boost 700 Wash Orange",
+            "retailPrice": 240
         },
         {
             "id": "143",
@@ -1166,7 +1311,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-700-Faded-Azure-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 700",
-            "displayName": "Adidas Yeezy Boost 700 Faded Azure"
+            "displayName": "Adidas Yeezy Boost 700 Faded Azure",
+            "retailPrice": 240
         },
         {
             "id": "144",
@@ -1174,7 +1320,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-700-Hi-Red-Red-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 700",
-            "displayName": "Adidas Yeezy Boost 700 Hi-Res Red"
+            "displayName": "Adidas Yeezy Boost 700 Hi-Res Red",
+            "retailPrice": 240
         },
         {
             "id": "145",
@@ -1182,7 +1329,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-700-Hi-Res-Blue-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 700",
-            "displayName": "Adidas Yeezy Boost 700 Hi-Res Blue"
+            "displayName": "Adidas Yeezy Boost 700 Hi-Res Blue",
+            "retailPrice": 240
         },
         {
             "id": "146",
@@ -1190,7 +1338,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-700-Enflame-Amber-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 700",
-            "displayName": "Adidas Yeezy Boost 700 Enflame Amber"
+            "displayName": "Adidas Yeezy Boost 700 Enflame Amber",
+            "retailPrice": 240
         },
         {
             "id": "147",
@@ -1198,7 +1347,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-700-Analog-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 700",
-            "displayName": "Adidas Yeezy Boost 700 Analog"
+            "displayName": "Adidas Yeezy Boost 700 Analog",
+            "retailPrice": 240
         },
         {
             "id": "148",
@@ -1206,7 +1356,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-700-Utility-Black-Product.png",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 700",
-            "displayName": "Adidas Yeezy Boost 700 Utility Black"
+            "displayName": "Adidas Yeezy Boost 700 Utility Black",
+            "retailPrice": 240
         },
         {
             "id": "149",
@@ -1214,7 +1365,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-700-V2-Static-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 700 V2",
-            "displayName": "Adidas Yeezy Boost 700 V2 Static"
+            "displayName": "Adidas Yeezy Boost 700 V2 Static",
+            "retailPrice": 300
         },
         {
             "id": "150",
@@ -1222,7 +1374,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-700-V2-Geode-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 700 V2",
-            "displayName": "Adidas Yeezy Boost 700 V2 Geode"
+            "displayName": "Adidas Yeezy Boost 700 V2 Geode",
+            "retailPrice": 300
         },
         {
             "id": "151",
@@ -1230,7 +1383,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-700-V2-Inertia-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 700 V2",
-            "displayName": "Adidas Yeezy Boost 700 V2 Inertia"
+            "displayName": "Adidas Yeezy Boost 700 V2 Inertia",
+            "retailPrice": 300
         },
         {
             "id": "152",
@@ -1238,7 +1392,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-700-V2-Hospital-Blue-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 700 V2",
-            "displayName": "Adidas Yeezy Boost 700 V2 Hospital Blue"
+            "displayName": "Adidas Yeezy Boost 700 V2 Hospital Blue",
+            "retailPrice": 300
         },
         {
             "id": "153",
@@ -1246,7 +1401,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-700-V2-Cream-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 700 V2",
-            "displayName": "Adidas Yeezy Boost 700 V2 Cream"
+            "displayName": "Adidas Yeezy Boost 700 V2 Cream",
+            "retailPrice": 300
         },
         {
             "id": "154",
@@ -1254,7 +1410,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-700-V2-Mauve-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 700 V2",
-            "displayName": "Adidas Yeezy Boost 700 V2 Mauve"
+            "displayName": "Adidas Yeezy Boost 700 V2 Mauve",
+            "retailPrice": 240
         },
         {
             "id": "155",
@@ -1262,7 +1419,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-700-V2-Vanta-Product.png",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 700 V2",
-            "displayName": "Adidas Yeezy Boost 700 V2 Vanta"
+            "displayName": "Adidas Yeezy Boost 700 V2 Vanta",
+            "retailPrice": 300
         },
         {
             "id": "156",
@@ -1270,7 +1428,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-700-V2-Tephra-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 700 V2",
-            "displayName": "Adidas Yeezy Boost 700 V2 Tephra"
+            "displayName": "Adidas Yeezy Boost 700 V2 Tephra",
+            "retailPrice": 300
         },
         {
             "id": "157",
@@ -1278,7 +1437,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-700-V3-Alvah-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 700 V3",
-            "displayName": "Adidas Yeezy Boost 700 V3 Alvah"
+            "displayName": "Adidas Yeezy Boost 700 V3 Alvah",
+            "retailPrice": 200
         },
         {
             "id": "158",
@@ -1286,7 +1446,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-700-V3-Arzareth-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 700 V3",
-            "displayName": "Adidas Yeezy Boost 700 V3 Arzareth"
+            "displayName": "Adidas Yeezy Boost 700 V3 Arzareth",
+            "retailPrice": 200
         },
         {
             "id": "159",
@@ -1294,7 +1455,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-700-V3-Safflower-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 700 V3",
-            "displayName": "Adidas Yeezy Boost 700 V3 Safflower"
+            "displayName": "Adidas Yeezy Boost 700 V3 Safflower",
+            "retailPrice": 200
         },
         {
             "id": "160",
@@ -1302,7 +1464,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-700-V3-Clay-Brown-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 700 V3",
-            "displayName": "Adidas Yeezy Boost 700 V3 Clay Brown"
+            "displayName": "Adidas Yeezy Boost 700 V3 Clay Brown",
+            "retailPrice": 200
         },
         {
             "id": "161",
@@ -1310,7 +1473,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-700-V3-Kyanite-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 700 V3",
-            "displayName": "Adidas Yeezy Boost 700 V3 Kyanite"
+            "displayName": "Adidas Yeezy Boost 700 V3 Kyanite",
+            "retailPrice": 200
         },
         {
             "id": "162",
@@ -1318,7 +1482,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-700-V3-Blue-Glow-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 700 V3",
-            "displayName": "Adidas Yeezy Boost 700 V3 Dark Glow"
+            "displayName": "Adidas Yeezy Boost 700 V3 Dark Glow",
+            "retailPrice": 200
         },
         {
             "id": "163",
@@ -1326,7 +1491,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-700-V3-Copper-Fade-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 700 V3",
-            "displayName": "Adidas Yeezy Boost 700 V3 Copper Fade"
+            "displayName": "Adidas Yeezy Boost 700 V3 Copper Fade",
+            "retailPrice": 200
         },
         {
             "id": "164",
@@ -1334,7 +1500,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-700-V3-Mono-Safflower-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 700 V3",
-            "displayName": "Adidas Yeezy Boost 700 V3 Mono Safflower"
+            "displayName": "Adidas Yeezy Boost 700 V3 Mono Safflower",
+            "retailPrice": 200
         },
         {
             "id": "165",
@@ -1342,7 +1509,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-700-V3-Fade-Carbon-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 700 V3",
-            "displayName": "Adidas Yeezy Boost 700 V3 Fade Carbon"
+            "displayName": "Adidas Yeezy Boost 700 V3 Fade Carbon",
+            "retailPrice": 200
         },
         {
             "id": "166",
@@ -1350,7 +1518,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-700-V3-Fade-Salt-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 700 V3",
-            "displayName": "Adidas Yeezy Boost 700 V3 Fade Salt"
+            "displayName": "Adidas Yeezy Boost 700 V3 Fade Salt",
+            "retailPrice": 200
         },
         {
             "id": "167",
@@ -1358,7 +1527,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-700-V3-Azael-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 700 V3",
-            "displayName": "Adidas Yeezy Boost 700 V3 Azael"
+            "displayName": "Adidas Yeezy Boost 700 V3 Azael",
+            "retailPrice": 200
         },
         {
             "id": "168",
@@ -1366,7 +1536,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-700-MNVN-Orange-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 700 MNVN",
-            "displayName": "Adidas Yeezy Boost 700 MNVN Orange"
+            "displayName": "Adidas Yeezy Boost 700 MNVN Orange",
+            "retailPrice": 220
         },
         {
             "id": "169",
@@ -1374,7 +1545,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-700-MNVN-Phosphor-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 700 MNVN",
-            "displayName": "Adidas Yeezy Boost 700 MNVN Phosphor"
+            "displayName": "Adidas Yeezy Boost 700 MNVN Phosphor",
+            "retailPrice": 220
         },
         {
             "id": "170",
@@ -1382,7 +1554,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-700-MNVN-Bone-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 700 MNVN",
-            "displayName": "Adidas Yeezy Boost 700 MNVN Bone"
+            "displayName": "Adidas Yeezy Boost 700 MNVN Bone",
+            "retailPrice": 220
         },
         {
             "id": "171",
@@ -1390,7 +1563,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-700-MNVN-Metallic-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 700 MNVN",
-            "displayName": "Adidas Yeezy Boost 700 MNVN Metallic"
+            "displayName": "Adidas Yeezy Boost 700 MNVN Metallic",
+            "retailPrice": 220
         },
         {
             "id": "172",
@@ -1398,7 +1572,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-700-MNVN-Resin-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 700 MNVN",
-            "displayName": "Adidas Yeezy Boost 700 MNVN Resin"
+            "displayName": "Adidas Yeezy Boost 700 MNVN Resin",
+            "retailPrice": 220
         },
         {
             "id": "173",
@@ -1406,7 +1581,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-700-MNVN-Geode-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 700 MNVN",
-            "displayName": "Adidas Yeezy Boost 700 MNVN Geode"
+            "displayName": "Adidas Yeezy Boost 700 MNVN Geode",
+            "retailPrice": 220
         },
         {
             "id": "174",
@@ -1414,7 +1590,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-700-MNVN-Triple-Black-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 700 MNVN",
-            "displayName": "Adidas Yeezy Boost 700 MNVN Triple Black"
+            "displayName": "Adidas Yeezy Boost 700 MNVN Triple Black",
+            "retailPrice": 220
         },
         {
             "id": "175",
@@ -1422,7 +1599,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-700-MNVN-Laceless-Phosphor-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 700 MNVN Laceless",
-            "displayName": "Adidas Yeezy Boost 700 MNVN Laceless Phosphor"
+            "displayName": "Adidas Yeezy Boost 700 MNVN Laceless Phosphor",
+            "retailPrice": 220
         },
         {
             "id": "176",
@@ -1430,7 +1608,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-700-MNVN-Laceless-Analog-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 700 MNVN Laceless",
-            "displayName": "Adidas Yeezy Boost 700 MNVN Laceless Analog"
+            "displayName": "Adidas Yeezy Boost 700 MNVN Laceless Analog",
+            "retailPrice": 220
         },
         {
             "id": "177",
@@ -1438,7 +1617,8 @@
             "imageLink": "https://images.stockx.com/images/Adidas-Yeezy-Boost-750-Brown-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 750",
-            "displayName": "Adidas Yeezy Boost 750 OG Light Brown"
+            "displayName": "Adidas Yeezy Boost 750 OG Light Brown",
+            "retailPrice": 350
         },
         {
             "id": "178",
@@ -1446,7 +1626,8 @@
             "imageLink": "https://images.stockx.com/images/Adidas-Yeezy-Boost-750-Triple-Black-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 750",
-            "displayName": "Adidas Yeezy Boost 750 Triple Black"
+            "displayName": "Adidas Yeezy Boost 750 Triple Black",
+            "retailPrice": 350
         },
         {
             "id": "179",
@@ -1454,7 +1635,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-750-Glow-In-The-Dark-Product.png",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 750",
-            "displayName": "Adidas Yeezy Boost 750 Light Grey Glow In The Dark"
+            "displayName": "Adidas Yeezy Boost 750 Light Grey Glow In The Dark",
+            "retailPrice": 350
         },
         {
             "id": "180",
@@ -1462,7 +1644,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Boost-750-Light-Brown-Glow-Product.png",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 750",
-            "displayName": "Adidas Yeezy Boost 750 Chocolate"
+            "displayName": "Adidas Yeezy Boost 750 Chocolate",
+            "retailPrice": 350
         },
         {
             "id": "181",
@@ -1470,7 +1653,8 @@
             "imageLink": "https://images.stockx.com/images/Adidas-Yeezy-750-Cleat.png",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 750 Cleat",
-            "displayName": "Adidas Yeezy Boost 750 Cleat Tan"
+            "displayName": "Adidas Yeezy Boost 750 Cleat Tan",
+            "retailPrice": 300
         },
         {
             "id": "182",
@@ -1478,7 +1662,8 @@
             "imageLink": "https://images.stockx.com/images/Adidas-Yeezy-750-Cleat-Black.png",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Boost 750 Cleat",
-            "displayName": "Adidas Yeezy Boost 750 Cleat Black"
+            "displayName": "Adidas Yeezy Boost 750 Cleat Black",
+            "retailPrice": 300
         },
         {
             "id": "183",
@@ -1486,7 +1671,8 @@
             "imageLink": "https://images.stockx.com/images/Adidas-Yeezy-Boost-950-Moonrock.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy 950",
-            "displayName": "Adidas Yeezy 950 Moonrock"
+            "displayName": "Adidas Yeezy 950 Moonrock",
+            "retailPrice": 585
         },
         {
             "id": "184",
@@ -1494,7 +1680,8 @@
             "imageLink": "https://images.stockx.com/images/Adidas-Yeezy-Boost-950-Pirate-Black-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy 950",
-            "displayName": "Adidas Yeezy 950 Pirate Black"
+            "displayName": "Adidas Yeezy 950 Pirate Black",
+            "retailPrice": 585
         },
         {
             "id": "185",
@@ -1502,7 +1689,8 @@
             "imageLink": "https://images.stockx.com/images/Adidas-Yeezy-Boost-950-Peyote-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy 950",
-            "displayName": "Adidas Yeezy 950 Peyote"
+            "displayName": "Adidas Yeezy 950 Peyote",
+            "retailPrice": 585
         },
         {
             "id": "186",
@@ -1510,7 +1698,8 @@
             "imageLink": "https://images.stockx.com/images/Adidas-Yeezy-Boost-950-Chocolate-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy 950",
-            "displayName": "Adidas Yeezy 950 Chocolate"
+            "displayName": "Adidas Yeezy 950 Chocolate",
+            "retailPrice": 585
         },
         {
             "id": "187",
@@ -1518,7 +1707,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-1050-Hi-Res.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy 1050",
-            "displayName": "Adidas Yeezy 1050 Hi-Res"
+            "displayName": "Adidas Yeezy 1050 Hi-Res",
+            "retailPrice": 400
         },
         {
             "id": "188",
@@ -1526,7 +1716,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Desert-Boot-Rock-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Desert Boot",
-            "displayName": "Adidas Yeezy Desert Boot Rock"
+            "displayName": "Adidas Yeezy Desert Boot Rock",
+            "retailPrice": 200
         },
         {
             "id": "189",
@@ -1534,7 +1725,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Desert-Boot-Oil-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Desert Boot",
-            "displayName": "Adidas Yeezy Desert Boot Oil"
+            "displayName": "Adidas Yeezy Desert Boot Oil",
+            "retailPrice": 200
         },
         {
             "id": "190",
@@ -1542,7 +1734,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Desert-Boot-Taupe-Blue-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Desert Boot",
-            "displayName": "Adidas Yeezy Desert Boot Taupe Blue"
+            "displayName": "Adidas Yeezy Desert Boot Taupe Blue",
+            "retailPrice": 200
         },
         {
             "id": "191",
@@ -1550,7 +1743,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Desert-Boot-Salt-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Desert Boot",
-            "displayName": "Adidas Yeezy Desert Boot Salt"
+            "displayName": "Adidas Yeezy Desert Boot Salt",
+            "retailPrice": 200
         },
         {
             "id": "192",
@@ -1558,7 +1752,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Knit-RNR-Boot-Sulfur-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Knit RNR Boot",
-            "displayName": "Adidas Yeezy Knit RNR Boot Sulfur"
+            "displayName": "Adidas Yeezy Knit RNR Boot Sulfur",
+            "retailPrice": 400
         },
         {
             "id": "193",
@@ -1566,7 +1761,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-NSLTD-BT-Khaki-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy NSLTD Boot",
-            "displayName": "Adidas Yeezy NSLTD Boot Khaki"
+            "displayName": "Adidas Yeezy NSLTD Boot Khaki",
+            "retailPrice": 340
         },
         {
             "id": "194",
@@ -1574,7 +1770,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Foam-RNNR-Ararat-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Foam RNR",
-            "displayName": "Adidas Yeezy Foam RNR Ararat"
+            "displayName": "Adidas Yeezy Foam RNR Ararat",
+            "retailPrice": 80
         },
         {
             "id": "195",
@@ -1582,7 +1779,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Foam-RNNR-MXT-Moon-Gray-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Foam RNR",
-            "displayName": "Adidas Yeezy Foam RNR MXT Moon Gray"
+            "displayName": "Adidas Yeezy Foam RNR MXT Moon Gray",
+            "retailPrice": 80
         },
         {
             "id": "196",
@@ -1590,7 +1788,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Foam-RNNR-Sand-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Foam RNR",
-            "displayName": "Adidas Yeezy Foam RNR Sand"
+            "displayName": "Adidas Yeezy Foam RNR Sand",
+            "retailPrice": 80
         },
         {
             "id": "197",
@@ -1598,7 +1797,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Foam-RNNR-Mineral-Blue-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Foam RNR",
-            "displayName": "Adidas Yeezy Foam RNR Mineral Blue"
+            "displayName": "Adidas Yeezy Foam RNR Mineral Blue",
+            "retailPrice": 80
         },
         {
             "id": "198",
@@ -1606,7 +1806,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Foam-RNNR-MX-Cream-Clay-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Foam RNR",
-            "displayName": "Adidas Yeezy Foam RNR MX Cream Clay"
+            "displayName": "Adidas Yeezy Foam RNR MX Cream Clay",
+            "retailPrice": 80
         },
         {
             "id": "199",
@@ -1614,7 +1815,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Foam-RNNR-Ochre-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Foam RNR",
-            "displayName": "Adidas Yeezy Foam RNR Ochre"
+            "displayName": "Adidas Yeezy Foam RNR Ochre",
+            "retailPrice": 80
         },
         {
             "id": "200",
@@ -1622,7 +1824,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Foam-RNNR-Vermillion-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Foam RNR",
-            "displayName": "Adidas Yeezy Foam RNR Vermillion"
+            "displayName": "Adidas Yeezy Foam RNR Vermillion",
+            "retailPrice": 80
         },
         {
             "id": "201",
@@ -1630,7 +1833,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Foam-RNNR-MX-Sand-Grey-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Foam RNR",
-            "displayName": "Adidas Yeezy Foam RNR MX Sand Grey"
+            "displayName": "Adidas Yeezy Foam RNR MX Sand Grey",
+            "retailPrice": 80
         },
         {
             "id": "202",
@@ -1638,7 +1842,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Foam-RNNR-Mist-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Foam RNR",
-            "displayName": "Adidas Yeezy Foam RNR Mist"
+            "displayName": "Adidas Yeezy Foam RNR Mist",
+            "retailPrice": 90
         },
         {
             "id": "203",
@@ -1646,7 +1851,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Foam-RNNR-Stone-Sage-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Foam RNR",
-            "displayName": "Adidas Yeezy Foam RNR Stone Sage"
+            "displayName": "Adidas Yeezy Foam RNR Stone Sage",
+            "retailPrice": 90
         },
         {
             "id": "204",
@@ -1654,7 +1860,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Foam-RNNR-Sulfur-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Foam RNR",
-            "displayName": "Adidas Yeezy Foam RNR Sulfur"
+            "displayName": "Adidas Yeezy Foam RNR Sulfur",
+            "retailPrice": 90
         },
 
         {
@@ -1663,7 +1870,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Foam-RNR-MX-Carbon-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Foam RNR",
-            "displayName": "Adidas Yeezy Foam RNR MX Carbon"
+            "displayName": "Adidas Yeezy Foam RNR MX Carbon",
+            "retailPrice": 90
         },
         {
             "id": "206",
@@ -1671,7 +1879,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Foam-RNNR-Flax-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Foam RNR",
-            "displayName": "Adidas Yeezy Foam RNR Clay Red"
+            "displayName": "Adidas Yeezy Foam RNR Clay Red",
+            "retailPrice": 90
         },
         {
             "id": "207",
@@ -1679,7 +1888,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Foam-RNNR-MX-Brown-Blue-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Foam RNR",
-            "displayName": "Adidas Yeezy Foam RNR MX Cinder"
+            "displayName": "Adidas Yeezy Foam RNR MX Cinder",
+            "retailPrice": 90
         },
         {
             "id": "208",
@@ -1687,7 +1897,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Foam-RNNR-Onyx-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Foam RNR",
-            "displayName": "Adidas Yeezy Foam RNR Onyx"
+            "displayName": "Adidas Yeezy Foam RNR Onyx",
+            "retailPrice": 90
         },
         {
             "id": "209",
@@ -1695,7 +1906,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Foam-RNR-Desert-Sand-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Foam RNR",
-            "displayName": "Adidas Yeezy Foam RNR Desert Sand"
+            "displayName": "Adidas Yeezy Foam RNR Desert Sand",
+            "retailPrice": 90
         },
         {
             "id": "210",
@@ -1703,7 +1915,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Foam-RNR-Stone-Salt-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Foam RNR",
-            "displayName": "Adidas Yeezy Foam RNR Stone Salt"
+            "displayName": "Adidas Yeezy Foam RNR Stone Salt",
+            "retailPrice": 90
         },
         {
             "id": "211",
@@ -1711,7 +1924,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Foam-RNR-Carbon-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Foam RNR",
-            "displayName": "Adidas Yeezy Foam RNR Carbon"
+            "displayName": "Adidas Yeezy Foam RNR Carbon",
+            "retailPrice": 90
         },
         {
             "id": "212",
@@ -1719,7 +1933,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Foam-RNR-MX-Granite-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Foam RNR",
-            "displayName": "Adidas Yeezy Foam RNR MX Granite"
+            "displayName": "Adidas Yeezy Foam RNR MX Granite",
+            "retailPrice": 90
         },
         {
             "id": "213",
@@ -1727,7 +1942,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Foam-RNR-Clay-Taupe-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Foam RNR",
-            "displayName": "Adidas Yeezy Foam RNR Clay Taupe"
+            "displayName": "Adidas Yeezy Foam RNR Clay Taupe",
+            "retailPrice": 90
         },
         {
             "id": "214",
@@ -1735,7 +1951,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Knit-RNR-Fade-Indigo-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Knit RNR",
-            "displayName": "Adidas Yeezy Knit RNR Fade Indigo"
+            "displayName": "Adidas Yeezy Knit RNR Fade Indigo",
+            "retailPrice": 200
         },
         {
             "id": "215",
@@ -1743,7 +1960,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Knit-RNR-Faded-Azure-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Knit RNR",
-            "displayName": "Adidas Yeezy Knit RNR Faded Azure"
+            "displayName": "Adidas Yeezy Knit RNR Faded Azure",
+            "retailPrice": 200
         },
         {
             "id": "216",
@@ -1751,7 +1969,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Knit-RNR-Stone-Carbon-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Knit RNR",
-            "displayName": "Adidas Yeezy Knit RNR Stone Carbon"
+            "displayName": "Adidas Yeezy Knit RNR Stone Carbon",
+            "retailPrice": 200
         },
         {
             "id": "217",
@@ -1759,7 +1978,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Knit-RNR-Stone-Onyx.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Knit RNR",
-            "displayName": "Adidas Yeezy Knit RNR Stone Onyx"
+            "displayName": "Adidas Yeezy Knit RNR Stone Onyx",
+            "retailPrice": 200
         },
         {
             "id": "218",
@@ -1767,7 +1987,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Knit-RNR-Sulfur-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Knit RNR",
-            "displayName": "Adidas Yeezy Knit RNR Sulfur"
+            "displayName": "Adidas Yeezy Knit RNR Sulfur",
+            "retailPrice": 200
         },
         {
             "id": "219",
@@ -1775,7 +1996,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Knit-RNR-Fade-Onyx-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Knit RNR",
-            "displayName": "Adidas Yeezy Knit RNR Fade Onyx"
+            "displayName": "Adidas Yeezy Knit RNR Fade Onyx",
+            "retailPrice": 210
         },
         {
             "id": "220",
@@ -1783,7 +2005,8 @@
             "imageLink": "https://images.stockx.com/images/Adidas-Yeezy-Powerphase-Calabasas-Core-White-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Powerphase",
-            "displayName": "Adidas Yeezy Powerphase Calabasas Core White"
+            "displayName": "Adidas Yeezy Powerphase Calabasas Core White",
+            "retailPrice": 120
         },
         {
             "id": "221",
@@ -1791,7 +2014,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Powerphase-Calabasas-Grey-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Powerphase",
-            "displayName": "Adidas Yeezy Powerphase Calabasas Grey"
+            "displayName": "Adidas Yeezy Powerphase Calabasas Grey",
+            "retailPrice": 120
         },
         {
             "id": "222",
@@ -1799,7 +2023,8 @@
             "imageLink": "https://images.stockx.com/images/Adidas-Yeezy-Powerphase-Calabasas-Core-Black-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Powerphase",
-            "displayName": "Adidas Yeezy Powerphase Calabasas Core Black"
+            "displayName": "Adidas Yeezy Powerphase Calabasas Core Black",
+            "retailPrice": 120
         },
         {
             "id": "223",
@@ -1807,7 +2032,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Powerphase-Quiet-Grey-Product.png",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Powerphase",
-            "displayName": "Adidas Yeezy Powerphase Quiet Grey"
+            "displayName": "Adidas Yeezy Powerphase Quiet Grey",
+            "retailPrice": 120
         },
         {
             "id": "224",
@@ -1815,7 +2041,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Powerphase-Clear-Brown-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Powerphase",
-            "displayName": "Adidas Yeezy Powerphase Clear Brown"
+            "displayName": "Adidas Yeezy Powerphase Clear Brown",
+            "retailPrice": 120
         },
         {
             "id": "225",
@@ -1823,7 +2050,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Powerphase-Simple-Brown-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Powerphase",
-            "displayName": "Adidas Yeezy Powerphase Simple Brown"
+            "displayName": "Adidas Yeezy Powerphase Simple Brown",
+            "retailPrice": 120
         },
         {
             "id": "226",
@@ -1831,7 +2059,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Powerphase-Kith-Classics-White-Green-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Powerphase",
-            "displayName": "Adidas Yeezy Powerphase Kith Classics White Green"
+            "displayName": "Adidas Yeezy Powerphase Kith Classics White Green",
+            "retailPrice": 120
         },
         {
             "id": "227",
@@ -1839,7 +2068,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-450-Slide-Cream-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy 450 Slide",
-            "displayName": "Adidas Yeezy 450 Slide Cream"
+            "displayName": "Adidas Yeezy 450 Slide Cream",
+            "retailPrice": 110
         },
         {
             "id": "228",
@@ -1847,7 +2077,8 @@
             "imageLink": "https://images.stockx.com/images/Yeezy-Slide-Desert-Sand-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Slide",
-            "displayName": "Adidas Yeezy Slide Desert Sand"
+            "displayName": "Adidas Yeezy Slide Desert Sand",
+            "retailPrice": 70
         },
         {
             "id": "229",
@@ -1855,7 +2086,8 @@
             "imageLink": "https://images.stockx.com/images/Yeezy-Slide-Bone-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Slide",
-            "displayName": "Adidas Yeezy Slide Bone"
+            "displayName": "Adidas Yeezy Slide Bone",
+            "retailPrice": 70
         },
         {
             "id": "230",
@@ -1863,7 +2095,8 @@
             "imageLink": "https://images.stockx.com/images/Yeezy-Slide-Earth-Brown-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Slide",
-            "displayName": "Adidas Yeezy Slide Earth Brown"
+            "displayName": "Adidas Yeezy Slide Earth Brown",
+            "retailPrice": 70
         },
         {
             "id": "231",
@@ -1871,7 +2104,8 @@
             "imageLink": "https://images.stockx.com/images/Yeezy-Slide-Soot-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Slide",
-            "displayName": "Adidas Yeezy Slide Soot"
+            "displayName": "Adidas Yeezy Slide Soot",
+            "retailPrice": 70
         },
         {
             "id": "232",
@@ -1879,7 +2113,8 @@
             "imageLink": "https://images.stockx.com/images/Yeezy-Slide-Core-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Slide",
-            "displayName": "Adidas Yeezy Slide Core"
+            "displayName": "Adidas Yeezy Slide Core",
+            "retailPrice": 70
         },
         {
             "id": "233",
@@ -1887,7 +2122,8 @@
             "imageLink": "https://images.stockx.com/images/Yeezy-Slide-Resin-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Slide",
-            "displayName": "Adidas Yeezy Slide Resin"
+            "displayName": "Adidas Yeezy Slide Resin",
+            "retailPrice": 70
         },
         {
             "id": "234",
@@ -1895,7 +2131,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Slide-Pure-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Slide",
-            "displayName": "Adidas Yeezy Slide Pure (First Release)"
+            "displayName": "Adidas Yeezy Slide Pure (First Release)",
+            "retailPrice": 70
         },
         {
             "id": "235",
@@ -1903,7 +2140,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Slide-Orange-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Slide",
-            "displayName": "Adidas Yeezy Slide Enflame Orange"
+            "displayName": "Adidas Yeezy Slide Enflame Orange",
+            "retailPrice": 70
         },
         {
             "id": "236",
@@ -1911,7 +2149,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Slide-Glow-Green-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Slide",
-            "displayName": "Adidas Yeezy Slide Glow Green"
+            "displayName": "Adidas Yeezy Slide Glow Green",
+            "retailPrice": 70
         },
         {
             "id": "237",
@@ -1919,7 +2158,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Slide-Pure-Restock-Pair-Product.png",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Slide",
-            "displayName": "Adidas Yeezy Slide Pure (Restock Pair)"
+            "displayName": "Adidas Yeezy Slide Pure (Restock Pair)",
+            "retailPrice": 70
         },
         {
             "id": "238",
@@ -1927,7 +2167,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Slide-Bone-2022-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Slide",
-            "displayName": "Adidas Yeezy Slide Bone (2022)"
+            "displayName": "Adidas Yeezy Slide Bone (2022)",
+            "retailPrice": 60
         },
         {
             "id": "239",
@@ -1935,7 +2176,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Slide-Glow-Green-2022-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Slide",
-            "displayName": "Adidas Yeezy Slide Glow Green (2022)"
+            "displayName": "Adidas Yeezy Slide Glow Green (2022)",
+            "retailPrice": 70
         },
         {
             "id": "240",
@@ -1943,7 +2185,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Slide-Granite-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Slide",
-            "displayName": "Adidas Yeezy Slide Granite"
+            "displayName": "Adidas Yeezy Slide Granite",
+            "retailPrice": 70
         },
         {
             "id": "241",
@@ -1951,7 +2194,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Slide-Dark-Onyx-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Slide",
-            "displayName": "Adidas Yeezy Slide Dark Onyx"
+            "displayName": "Adidas Yeezy Slide Dark Onyx",
+            "retailPrice": 70
         },
         {
             "id": "242",
@@ -1959,7 +2203,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Slide-Salt-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Slide",
-            "displayName": "Adidas Yeezy Slide Salt"
+            "displayName": "Adidas Yeezy Slide Salt",
+            "retailPrice": 70
         },
         {
             "id": "243",
@@ -1967,7 +2212,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Slide-Flax-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Slide",
-            "displayName": "Adidas Yeezy Slide Flax"
+            "displayName": "Adidas Yeezy Slide Flax",
+            "retailPrice": 70
         },
         {
             "id": "244",
@@ -1975,7 +2221,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Slide-Resin-2022-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Slide",
-            "displayName": "Adidas Yeezy Slide Resin (2022)"
+            "displayName": "Adidas Yeezy Slide Resin (2022)",
+            "retailPrice": 70
         },
         {
             "id": "245",
@@ -1983,7 +2230,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Slide-Slate-Grey-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Slide",
-            "displayName": "Adidas Yeezy Slide Slate Grey"
+            "displayName": "Adidas Yeezy Slide Slate Grey",
+            "retailPrice": 70
         },
         {
             "id": "246",
@@ -1991,7 +2239,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Slide-Ochre-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Slide",
-            "displayName": "Adidas Yeezy Slide Ochre"
+            "displayName": "Adidas Yeezy Slide Ochre",
+            "retailPrice": 70
         },
         {
             "id": "247",
@@ -1999,7 +2248,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Slide-Azure-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Slide",
-            "displayName": "Adidas Yeezy Slide Azure"
+            "displayName": "Adidas Yeezy Slide Azure",
+            "retailPrice": 70
         },
         {
             "id": "248",
@@ -2007,7 +2257,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Slide-Slate-Marine-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Slide",
-            "displayName": "Adidas Yeezy Slide Slate Marine"
+            "displayName": "Adidas Yeezy Slide Slate Marine",
+            "retailPrice": 70
         },
         {
             "id": "249",
@@ -2015,7 +2266,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Slide-Black-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy Slide",
-            "displayName": "Adidas Yeezy Slide Onyx"
+            "displayName": "Adidas Yeezy Slide Onyx",
+            "retailPrice": 70
         },
         {
             "id": "250",
@@ -2023,7 +2275,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yzy-QNTM-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy QNTM",
-            "displayName": "Adidas Yeezy QNTM (Lifestyle Model)"
+            "displayName": "Adidas Yeezy QNTM (Lifestyle Model)",
+            "retailPrice": 250
         },
         {
             "id": "251",
@@ -2031,7 +2284,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-YZY-QNTM-Barium-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy QNTM",
-            "displayName": "Adidas Yeezy QNTM Barium"
+            "displayName": "Adidas Yeezy QNTM Barium",
+            "retailPrice": 250
         },
         {
             "id": "252",
@@ -2039,7 +2293,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-YZY-QNTM-Ophani-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy QNTM",
-            "displayName": "Adidas Yeezy QNTM Teal Blue"
+            "displayName": "Adidas Yeezy QNTM Teal Blue",
+            "retailPrice": 250
         },
         {
             "id": "253",
@@ -2047,7 +2302,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-QNTM-BSKTBL-Frozen-Blue-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy QNTM",
-            "displayName": "Adidas Yeezy QNTM BSKTBL Frozen Blue"
+            "displayName": "Adidas Yeezy QNTM BSKTBL Frozen Blue",
+            "retailPrice": 250
         },
         {
             "id": "254",
@@ -2055,7 +2311,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-QNTM-Frozen-Blue-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy QNTM",
-            "displayName": "Adidas Yeezy QNTM Frozen Blue"
+            "displayName": "Adidas Yeezy QNTM Frozen Blue",
+            "retailPrice": 250
         },
         {
             "id": "255",
@@ -2063,7 +2320,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-QNTM-BSKTBL-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy QNTM",
-            "displayName": "Adidas Yeezy QNTM BSKTBL (Performance Basketball Model)"
+            "displayName": "Adidas Yeezy QNTM BSKTBL (Performance Basketball Model)",
+            "retailPrice": 250
         },
         {
             "id": "256",
@@ -2071,7 +2329,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-QNTM-Sea-Teal-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy QNTM",
-            "displayName": "Adidas Yeezy QNTM Sea Teal"
+            "displayName": "Adidas Yeezy QNTM Sea Teal",
+            "retailPrice": 0
         },
         {
             "id": "257",
@@ -2079,7 +2338,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-QNTM-Flash-Orange-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy QNTM",
-            "displayName": "Adidas Yeezy QNTM Flash Orange"
+            "displayName": "Adidas Yeezy QNTM Flash Orange",
+            "retailPrice": 250
         },
         {
             "id": "258",
@@ -2087,7 +2347,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-QNTM-Onyx-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy QNTM",
-            "displayName": "Adidas Yeezy QNTM Onyx"
+            "displayName": "Adidas Yeezy QNTM Onyx",
+            "retailPrice": 250
         },
         {
             "id": "259",
@@ -2095,7 +2356,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-QNTM-Amber-Tint-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy QNTM",
-            "displayName": "Adidas Yeezy QNTM Amber Tint"
+            "displayName": "Adidas Yeezy QNTM Amber Tint",
+            "retailPrice": 250
         },
         {
             "id": "260",
@@ -2103,7 +2365,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-Quantum-Mono-Carbon.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy QNTM",
-            "displayName": "Adidas Yeezy QNTM Mono Carbon"
+            "displayName": "Adidas Yeezy QNTM Mono Carbon",
+            "retailPrice": 250
         },
         {
             "id": "261",
@@ -2111,7 +2374,8 @@
             "imageLink": "https://images.stockx.com/images/adidas-Yeezy-QNTM-Hi-Res-Coral-Product.jpg",
             "manufacturer": "Adidas",
             "modelName": "Yeezy QNTM",
-            "displayName": "Adidas Yeezy QNTM Hi-Res Coral"
+            "displayName": "Adidas Yeezy QNTM Hi-Res Coral",
+            "retailPrice": 250
         },
         {
             "id": "262",
@@ -2119,7 +2383,8 @@
             "imageLink": "https://images.stockx.com/images/Yeezy-Pod-Black-Product.jpg",
             "manufacturer": "YZY",
             "modelName": "Pods",
-            "displayName": "YZY Pods Black"
+            "displayName": "YZY Pods Black",
+            "retailPrice": 20
         },
         {
             "id": "263",
@@ -2127,7 +2392,8 @@
             "imageLink": "https://images.stockx.com/images/Nike-Air-Yeezy-1-Net-Net-Tan-Product.jpg",
             "manufacturer": "Nike",
             "modelName": "Air Yeezy 1",
-            "displayName": "Nike Air Yeezy 1 Net Tan"
+            "displayName": "Nike Air Yeezy 1 Net Tan",
+            "retailPrice": 250
         },
         {
             "id": "264",
@@ -2135,7 +2401,8 @@
             "imageLink": "https://images.stockx.com/images/Nike-Air-Yeezy-1-Black-Pink-Blink-Product.jpg",
             "manufacturer": "Nike",
             "modelName": "Air Yeezy 1",
-            "displayName": "Nike Air Yeezy 1 Blink"
+            "displayName": "Nike Air Yeezy 1 Blink",
+            "retailPrice": 250
         },
         {
             "id": "265",
@@ -2143,7 +2410,8 @@
             "imageLink": "https://images.stockx.com/images/Nike-Air-Yeezy-1-Zen-Grey-Product.jpg",
             "manufacturer": "Nike",
             "modelName": "Air Yeezy 1",
-            "displayName": "Nike Air Yeezy 1 Zen Grey"
+            "displayName": "Nike Air Yeezy 1 Zen Grey",
+            "retailPrice": 250
         },
         {
             "id": "266",
@@ -2151,7 +2419,8 @@
             "imageLink": "https://images.stockx.com/images/Nike-Air-Yeezy-2-NRG-Pure-Platinum-Product.jpg",
             "manufacturer": "Nike",
             "modelName": "Air Yeezy 2",
-            "displayName": "Nike Air Yeezy 2 Pure Platinum"
+            "displayName": "Nike Air Yeezy 2 Pure Platinum",
+            "retailPrice": 250
         },
         {
             "id": "267",
@@ -2159,7 +2428,8 @@
             "imageLink": "https://images.stockx.com/images/Nike-Air-Yeezy-2-NRG-Black-Solar-Red-Product.jpg",
             "manufacturer": "Nike",
             "modelName": "Air Yeezy 2",
-            "displayName": "Nike Air Yeezy 2 Solar Red"
+            "displayName": "Nike Air Yeezy 2 Solar Red",
+            "retailPrice": 250
         },
         {
             "id": "268",
@@ -2167,7 +2437,8 @@
             "imageLink": "https://images.stockx.com/images/Nike-Air-Yeezy-2-Red-October-Product.jpg",
             "manufacturer": "Nike",
             "modelName": "Air Yeezy 2",
-            "displayName": "Nike Air Yeezy 2 Red October"
+            "displayName": "Nike Air Yeezy 2 Red October",
+            "retailPrice": 250
         }
     ]
 }

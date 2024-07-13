@@ -5,6 +5,7 @@ export type DatabaseItem = {
     manufacturer: string;
     modelName: string;
     color: string;
+    retailPrice: number;
 };
 
 export type CollectionItem = {

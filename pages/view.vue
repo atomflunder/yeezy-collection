@@ -8,19 +8,10 @@
     <div v-for="(group, i) in groupedItems" class="p-4">
         <UDivider :label="group[0].item.modelName" />
         <div class="grid lg:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-2">
-            <UCard v-for="(collectionItem, j) in group">
-                <NuxtImg
-                    :src="collectionItem.item.imageLink"
-                    :alt="collectionItem.item.displayName"
-                    width="200px"
-                />
-
-                <div>
-                    {{ collectionItem.item.displayName }}
-                    <br />
-                    ({{ collectionItem.size }})
-                </div>
-            </UCard>
+            <DisplayItem
+                v-for="(collectionItem, j) in group"
+                :collection-item="collectionItem"
+            />
         </div>
     </div>
 </template>
@@ -39,8 +30,7 @@ if (!query.items) {
     await navigateTo("/");
 }
 
-// TODO: Add a "approximate value"?
-// How would you get that? StockX?
+// TODO: Add a "approximate value" - recent price on StockX?
 
 const decodedItems = decodeItems(query.items as string);
 const groups = getAllModels();

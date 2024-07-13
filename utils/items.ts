@@ -1,10 +1,6 @@
 import type { DatabaseItem } from "~/types";
 import items from "~/data/items.json";
 
-// Maybe a file is enough tbh, since we do not write anything.
-// https://www.snkr.eu/adidas-yeezy-modelluebersicht/ (Color names are off a bit, but images are good)
-// Maybe try to find .pngs though.
-
 export function getAllModels(): string[] {
     return [...new Set(getAllItems().map((i) => i.modelName))];
 }
