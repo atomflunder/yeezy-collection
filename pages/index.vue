@@ -186,5 +186,3 @@ async function writeToDb() {
 }
 </script>
 
-<style scoped></style>
-

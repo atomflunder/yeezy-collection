@@ -6,5 +6,3 @@ await navigateTo("https://github.com/atomflunder/yeezy-collection", {
 });
 </script>
 
-<style scoped></style>
-

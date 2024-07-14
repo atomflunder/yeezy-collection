@@ -95,5 +95,3 @@ async function copyShareUrl() {
 }
 </script>
 
-<style scoped></style>
-
