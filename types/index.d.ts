@@ -13,3 +13,20 @@ export type CollectionItem = {
     size: string;
 };
 
+export type CollectionEntry = {
+    id: number;
+    created_at: string;
+    title: string;
+    items: number[];
+    url: string;
+    sizes: string[];
+};
+
+type Collection = {
+    collectionItems: CollectionItem[];
+    groupedItems: CollectionItem[][];
+    title: string;
+    url: string;
+    createdAt: string;
+};
+

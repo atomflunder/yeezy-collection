@@ -1,9 +1,16 @@
 <template>
-    <HeaderButtons
-        :items="collectionItems"
-        :title="collectionTitle"
-        :parent-page="'/index'"
-    />
+    <HeaderButtons>
+        <template v-slot:actionButtons>
+            <UButton
+                icon="i-mdi-eye-arrow-right"
+                label="Generate"
+                :to="url"
+                @click="writeToDb"
+                target="_blank"
+                variant="link"
+            />
+        </template>
+    </HeaderButtons>
 
     <UInput
         v-model="collectionTitle"
@@ -154,6 +161,28 @@ function addYeezy() {
         });
         closeModal();
     }
+}
+
+let url = ref("/view/" + crypto.randomUUID());
+
+async function writeToDb() {
+    const title = collectionTitle.value.slice(0, 60);
+
+    const body = {
+        title: title || "Untitled Collection",
+        items: collectionItems.map((i) => i.item.id),
+        sizes: collectionItems.map((i) => i.size),
+        url: url.value,
+    };
+
+    console.log("Writing to db: ", body);
+
+    await $fetch("/api/collection/insert", {
+        method: "POST",
+        body,
+    });
+
+    url.value = "/view/" + crypto.randomUUID();
 }
 </script>
 
