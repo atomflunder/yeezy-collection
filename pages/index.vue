@@ -106,7 +106,7 @@
             </template>
         </DisplayItem>
 
-        <UCard v-if="collectionItems.length === 0" class="col-span-12">
+        <UCard v-if="collectionItems.length === 0">
             1. Give your collection a title.
             <br />
             2. Add new Yeezys by clicking the "+" Button at the bottom-left.

@@ -15,10 +15,10 @@
                 {{ collectionItem.item.displayName }}
                 <br />
             </div>
-            <div class="col-span-9">
+            <div class="col-span-7">
                 Retail: ${{ collectionItem.item.retailPrice.toString() }} USD
             </div>
-            <div class="col-span-3">Size: {{ collectionItem.size }}</div>
+            <div class="col-span-5">Size: {{ collectionItem.size }}</div>
         </div>
     </UCard>
 </template>

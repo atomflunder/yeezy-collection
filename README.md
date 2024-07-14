@@ -1,75 +1,25 @@
-# Nuxt 3 Minimal Starter
+# Yeezy Collection
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+This is an app to manage and share your collection of Yeezy Sneakers.
 
-## Setup
+## Screenshots
 
-Make sure to install the dependencies:
+|                         |                       |                              |                        |
+| ----------------------- | --------------------- | ---------------------------- | ---------------------- |
+| ![](./assets/title.png) | ![](./assets/add.png) | ![](./assets/collection.png) | ![](./assets/view.png) |
+| Title Screen            | Adding Yeezys         | Managing your Collection     | Viewing a Collection   |
 
-```bash
-# npm
-npm install
+## Contributing
 
-# pnpm
-pnpm install
+Found a bug or have a feature request? Feel free to open an issue.  
+Alternatively, pull requests are also always welcome.
 
-# yarn
-yarn install
+Thanks for any kind of contribution.
 
-# bun
-bun install
-```
+## Built with
 
-## Development Server
+-   [Nuxt](https://nuxt.com/)
+-   [Nuxt UI](https://ui.nuxt.com/)
+-   [Pinia](https://pinia.vuejs.org/)
+-   [Supabase](https://supabase.com/)
 
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
