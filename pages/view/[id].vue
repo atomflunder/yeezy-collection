@@ -21,13 +21,17 @@
         </template>
     </HeaderButtons>
 
-    <div class="grid grid-cols-12 text-xl p-4">
+    <div v-if="!collection" class="p-4 text-xl">
+        Could not find this collection, do you have the right link?
+    </div>
+
+    <div class="grid grid-cols-12 text-xl p-4" v-if="collection">
         <div class="2xl:col-span-6 col-span-12 text-left">
-            {{ collection!.title }}
+            {{ collection.title }}
         </div>
         <div class="2xl:col-span-6 col-span-12 2xl:text-right text-left">
             Retail Value: ${{
-                collection!.collectionItems
+                collection.collectionItems
                     .map((i) => i.item.retailPrice)
                     .reduce((a, b) => b + a, 0)
             }}
@@ -35,7 +39,12 @@
         </div>
     </div>
 
-    <div v-for="(group, i) in collection!.groupedItems" class="p-4" :key="i">
+    <div
+        v-if="collection"
+        v-for="(group, i) in collection.groupedItems"
+        class="p-4"
+        :key="i"
+    >
         <UDivider :label="group[0].item.modelName" />
         <div class="grid lg:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-2">
             <DisplayItem

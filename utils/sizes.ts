@@ -46,6 +46,14 @@ export const fullSizes = [
 
 export const podSizes = ["1", "2", "3"];
 
+export function isValidSize(input: string): boolean {
+    return (
+        allSizes.includes(input) ||
+        fullSizes.includes(input) || // This is kind of redundant.
+        podSizes.includes(input)
+    );
+}
+
 export function getSizes(item: DatabaseItem): string[] {
     const fullSizeModels = [
         "Yeezy Foam RNR",
