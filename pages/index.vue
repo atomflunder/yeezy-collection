@@ -65,10 +65,9 @@
             >
                 <template #option="{ option: collectionItem }">
                     <span>
-                        <UAvatar
+                        <NuxtImg
                             :src="collectionItem.imageLink"
-                            img-class="rounded-none h-9 w-12"
-                            class="h-10 w-16"
+                            class="h-9 w-12"
                         />
                         {{ collectionItem.displayName }}
                     </span>
