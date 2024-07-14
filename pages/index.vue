@@ -4,10 +4,11 @@
             <UButton
                 icon="i-mdi-eye-arrow-right"
                 label="Generate"
-                :to="url"
                 @click="writeToDb"
                 target="_blank"
                 variant="link"
+                :loading="isLoadingView"
+                loading-icon="i-mdi-loading"
             />
         </template>
     </HeaderButtons>
@@ -139,6 +140,8 @@ const collectionTitle: Ref<string> = ref("");
 
 let isModalOpen = ref(false);
 
+let isLoadingView = ref(false);
+
 function openModal() {
     isModalOpen.value = true;
 
@@ -163,6 +166,8 @@ function addYeezy() {
 let url = ref("/view/" + crypto.randomUUID());
 
 async function writeToDb() {
+    isLoadingView.value = true;
+
     const title = collectionTitle.value.slice(0, 60);
 
     const body = {
@@ -177,7 +182,11 @@ async function writeToDb() {
         body,
     });
 
+    await navigateTo(url.value, { open: { target: "_blank" } });
+
     url.value = "/view/" + crypto.randomUUID();
+
+    isLoadingView.value = false;
 }
 </script>
 
