@@ -174,8 +174,6 @@ async function writeToDb() {
         url: url.value,
     };
 
-    console.log("Writing to db: ", body);
-
     await $fetch("/api/collection/insert", {
         method: "POST",
         body,

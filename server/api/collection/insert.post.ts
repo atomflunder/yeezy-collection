@@ -10,7 +10,7 @@ type RequestBody = {
 export default defineEventHandler(async (event) => {
     const body = await readBody<RequestBody>(event);
 
-    console.log("received request to write to db ", body);
+    // TODO: Secure this endpoint
 
     const { error } = await supabase.from("collections").insert(body);
 
