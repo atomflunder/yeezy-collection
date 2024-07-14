@@ -106,15 +106,14 @@
             </template>
         </DisplayItem>
 
-        <div v-if="collectionItems.length === 0">
-            <UCard>
-                1. Give your collection a title.
-                <br />
-                2. Add new Yeezys by clicking the "+" Button at the bottom-left.
-                <br />
-                3. Click on Share/View to share your collection with the world!
-            </UCard>
-        </div>
+        <UCard v-if="collectionItems.length === 0" class="col-span-12">
+            1. Give your collection a title.
+            <br />
+            2. Add new Yeezys by clicking the "+" Button at the bottom-left.
+            <br />
+            3. Click on the Generate Button in the Header to share your
+            collection with the world!
+        </UCard>
 
         <UButton
             @click="openModal"
