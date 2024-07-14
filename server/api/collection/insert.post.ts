@@ -11,6 +11,7 @@ export default defineEventHandler(async (event) => {
     const body = await readBody<RequestBody>(event);
 
     // TODO: Secure this endpoint
+    // TODO: Seems like emojis do not work for the title, sanitize the input before passing it into the db.
 
     const { error } = await supabase.from("collections").insert(body);
 

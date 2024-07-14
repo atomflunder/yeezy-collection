@@ -24,20 +24,19 @@
     <UModal v-model="isModalOpen">
         <UCard>
             <template #header>
-                <div v-if="currentlySelectedYeezy" class="h-8 text-left"></div>
-
-                {{
-                    currentlySelectedYeezy
-                        ? currentlySelectedYeezy.displayName
-                        : "Add a new Yeezy"
-                }}
-
-                <UButton
-                    @click="closeModal"
-                    icon="i-heroicons-x-mark"
-                    color="red"
-                    class="rounded-full float-right"
-                />
+                <div v-if="currentlySelectedYeezy" class="h-6 text-left">
+                    {{
+                        currentlySelectedYeezy
+                            ? currentlySelectedYeezy.displayName
+                            : "Add a new Yeezy"
+                    }}
+                    <UButton
+                        @click="closeModal"
+                        icon="i-heroicons-x-mark"
+                        color="red"
+                        class="rounded-full float-right"
+                    />
+                </div>
             </template>
 
             <span v-if="currentlySelectedYeezy !== undefined">

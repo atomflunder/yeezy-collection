@@ -4,10 +4,10 @@ This is an app to manage and share your collection of Yeezy Sneakers.
 
 ## Screenshots
 
-|                         |                       |                              |                        |
-| ----------------------- | --------------------- | ---------------------------- | ---------------------- |
-| ![](./assets/title.png) | ![](./assets/add.png) | ![](./assets/collection.png) | ![](./assets/view.png) |
-| Title Screen            | Adding Yeezys         | Managing your Collection     | Viewing a Collection   |
+|                         |                          |                       |                              |                        |
+| ----------------------- | ------------------------ | --------------------- | ---------------------------- | ---------------------- |
+| ![](./assets/title.png) | ![](./assets/search.png) | ![](./assets/add.png) | ![](./assets/collection.png) | ![](./assets/view.png) |
+| Title Screen            | Search for Yeezys        | Adding Yeezys         | Managing your Collection     | Viewing a Collection   |
 
 ## Contributing
 

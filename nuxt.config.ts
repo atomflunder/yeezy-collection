@@ -9,6 +9,7 @@ export default defineNuxtConfig({
         "@pinia-plugin-persistedstate/nuxt",
     ],
     ui: { icons: ["mdi"] },
+    // TODO: Use a cream color instead of #FFFFFF?
     colorMode: { preference: "light" },
 });
 
