@@ -166,6 +166,10 @@ function addYeezy() {
 let url = ref("/view/" + crypto.randomUUID());
 
 async function writeToDb() {
+    const fullSitePath = useRequestURL();
+
+    await navigator.clipboard.writeText(`${fullSitePath}${url.value.slice(1)}`);
+
     isLoadingView.value = true;
 
     const title = collectionTitle.value.slice(0, 60);
@@ -183,10 +187,6 @@ async function writeToDb() {
     });
 
     await navigateTo(url.value, { open: { target: "_blank" } });
-
-    const fullSitePath = useRequestURL();
-
-    await navigator.clipboard.writeText(`${fullSitePath}`);
 
     url.value = "/view/" + crypto.randomUUID();
 
