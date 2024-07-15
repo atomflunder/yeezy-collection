@@ -22,7 +22,7 @@
         size="lg"
     />
 
-    <UModal v-model="isModalOpen">
+    <UModal v-model="isModalOpen" :ui="{ container: 'items-center' }">
         <UCard>
             <template #header>
                 <div v-if="currentlySelectedYeezy" class="h-6 text-left">
