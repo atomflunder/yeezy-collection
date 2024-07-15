@@ -42,7 +42,7 @@
 
             <span v-if="currentlySelectedYeezy !== undefined">
                 <NuxtImg
-                    :src="currentlySelectedYeezy.imageLink"
+                    :src="'/' + currentlySelectedYeezy.id + '.png'"
                     :alt="currentlySelectedYeezy.displayName"
                     width="200px"
                 />
@@ -66,7 +66,7 @@
                 <template #option="{ option: collectionItem }">
                     <span>
                         <NuxtImg
-                            :src="collectionItem.imageLink"
+                            :src="'/' + collectionItem.id + '.png'"
                             class="h-9 w-12"
                         />
                         {{ collectionItem.displayName }}

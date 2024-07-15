@@ -5,7 +5,7 @@
         <div class="grid grid-cols-12 gap-2 p-4">
             <NuxtImg
                 preload
-                :src="collectionItem.item.imageLink"
+                :src="'/' + collectionItem.item.id + '.png'"
                 :alt="collectionItem.item.displayName"
                 width="280px"
                 class="col-span-12"
