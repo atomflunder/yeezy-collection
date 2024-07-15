@@ -172,8 +172,8 @@ async function writeToDb() {
 
     const body = {
         title: title || "Untitled Collection",
-        items: collectionItems.map((i) => i.item.id).slice(0, 100),
-        sizes: collectionItems.map((i) => i.size).slice(0, 100),
+        items: collectionItems.map((i) => i.item.id).slice(0, 200),
+        sizes: collectionItems.map((i) => i.size).slice(0, 200),
         url: url.value,
     };
 
@@ -183,6 +183,10 @@ async function writeToDb() {
     });
 
     await navigateTo(url.value, { open: { target: "_blank" } });
+
+    const fullSitePath = useRequestURL();
+
+    await navigator.clipboard.writeText(`${fullSitePath}`);
 
     url.value = "/view/" + crypto.randomUUID();
 
