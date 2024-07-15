@@ -3,7 +3,7 @@
         <template v-slot:actionButtons>
             <UButton
                 icon="i-mdi-eye-arrow-right"
-                label="Generate"
+                :label="isCopied ? 'Copied to your Clipboard' : 'Generate'"
                 @click="writeToDb"
                 target="_blank"
                 variant="link"
@@ -165,6 +165,8 @@ function addYeezy() {
 
 let url = ref("/view/" + crypto.randomUUID());
 
+let isCopied = ref(false);
+
 async function writeToDb() {
     const fullSitePath = useRequestURL();
 
@@ -191,6 +193,12 @@ async function writeToDb() {
     url.value = "/view/" + crypto.randomUUID();
 
     isLoadingView.value = false;
+
+    isCopied.value = true;
+
+    setTimeout(() => {
+        isCopied.value = false;
+    }, 2000);
 }
 </script>
 
