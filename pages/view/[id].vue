@@ -7,7 +7,9 @@
                         ? 'i-mdi-clipboard-check-multiple-outline'
                         : 'i-mdi-clipboard-multiple-outline'
                 "
-                :label="isCopyButtonClicked ? 'Copied!' : 'Share'"
+                :label="
+                    isCopyButtonClicked ? 'Copied to your Clipboard!' : 'Share'
+                "
                 @click="copyShareUrl()"
                 variant="link"
             />

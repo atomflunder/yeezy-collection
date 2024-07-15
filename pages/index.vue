@@ -3,7 +3,7 @@
         <template v-slot:actionButtons>
             <UButton
                 icon="i-mdi-eye-arrow-right"
-                :label="isCopied ? 'Copied to your Clipboard' : 'Generate'"
+                :label="isCopied ? 'Copied to your Clipboard!' : 'Generate'"
                 @click="writeToDb"
                 target="_blank"
                 variant="link"
