@@ -172,8 +172,8 @@ async function writeToDb() {
 
     const body = {
         title: title || "Untitled Collection",
-        items: collectionItems.map((i) => i.item.id),
-        sizes: collectionItems.map((i) => i.size),
+        items: collectionItems.map((i) => i.item.id).slice(0, 100),
+        sizes: collectionItems.map((i) => i.size).slice(0, 100),
         url: url.value,
     };
 

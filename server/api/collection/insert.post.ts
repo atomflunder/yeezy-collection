@@ -28,7 +28,8 @@ export default defineEventHandler(async (event) => {
         !body.items ||
         !body.sizes ||
         body.items.length !== body.sizes.length ||
-        body.items.length === 0
+        body.items.length === 0 ||
+        body.items.length > 100
     ) {
         setResponseStatus(event, 400, "Invalid Items/Sizes");
         return;
