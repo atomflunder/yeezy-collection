@@ -14,6 +14,7 @@
                 variant="link"
             />
             <UButton
+                v-if="!isCopyButtonClicked"
                 icon="i-mdi-pencil"
                 label="Create Yours"
                 to="/"
