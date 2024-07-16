@@ -16,7 +16,7 @@
             <UButton
                 v-if="!isCopyButtonClicked"
                 icon="i-mdi-pencil"
-                label="Create Yours"
+                label="Your Collection"
                 to="/"
                 variant="link"
             />
