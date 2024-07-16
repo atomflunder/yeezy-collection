@@ -3,9 +3,8 @@
         <template v-slot:actionButtons>
             <UButton
                 icon="i-mdi-eye-arrow-right"
-                :label="isCopied ? 'Copied to your Clipboard!' : 'Generate'"
+                label="Generate"
                 @click="writeToDb"
-                target="_blank"
                 variant="link"
                 :loading="isLoadingView"
                 loading-icon="i-mdi-loading"
@@ -165,9 +164,11 @@ function addYeezy() {
 
 let url = ref("/view/" + crypto.randomUUID());
 
-let isCopied = ref(false);
+async function writeToDb(): Promise<void> {
+    if (collectionItems.length === 0) {
+        return;
+    }
 
-async function writeToDb() {
     const fullSitePath = useRequestURL();
 
     await navigator.clipboard.writeText(`${fullSitePath}${url.value.slice(1)}`);
@@ -178,8 +179,8 @@ async function writeToDb() {
 
     const body = {
         title: title || "Untitled Collection",
-        items: collectionItems.map((i) => i.item.id).slice(0, 200),
-        sizes: collectionItems.map((i) => i.size).slice(0, 200),
+        items: collectionItems.map((i) => i.item.id).slice(0, 400),
+        sizes: collectionItems.map((i) => i.size).slice(0, 400),
         url: url.value,
     };
 
@@ -188,17 +189,11 @@ async function writeToDb() {
         body,
     });
 
-    await navigateTo(url.value, { open: { target: "_blank" } });
+    await navigateTo(url.value);
 
     url.value = "/view/" + crypto.randomUUID();
 
     isLoadingView.value = false;
-
-    isCopied.value = true;
-
-    setTimeout(() => {
-        isCopied.value = false;
-    }, 2000);
 }
 </script>
 

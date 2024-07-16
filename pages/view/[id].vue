@@ -15,9 +15,8 @@
             />
             <UButton
                 icon="i-mdi-pencil"
-                label="Edit Yours"
+                label="Create Yours"
                 to="/"
-                target="_blank"
                 variant="link"
             />
         </template>

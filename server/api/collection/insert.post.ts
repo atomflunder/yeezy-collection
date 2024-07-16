@@ -29,7 +29,7 @@ export default defineEventHandler(async (event) => {
         !body.sizes ||
         body.items.length !== body.sizes.length ||
         body.items.length === 0 ||
-        body.items.length > 200
+        body.items.length > 400
     ) {
         setResponseStatus(event, 400, "Invalid Items/Sizes");
         return;
