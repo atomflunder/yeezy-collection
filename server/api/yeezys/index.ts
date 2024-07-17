@@ -24,8 +24,16 @@ export default defineEventHandler(async (event) => {
             models.items.indexOf(b.modelName)
         ) {
             return 1;
-        } else {
+        } else if (
+            models.items.indexOf(a.modelName) <
+            models.items.indexOf(b.modelName)
+        ) {
             return -1;
+        } else {
+            // If a tie occurs it's just alphabetically
+            return a.displayName.localeCompare(b.displayName, "en-US", {
+                numeric: true,
+            });
         }
     });
 
