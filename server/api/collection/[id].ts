@@ -33,12 +33,9 @@ export default defineEventHandler(async (event) => {
         return;
     }
 
-    let { data: yeezyData, error: yeezyError } = await supabase
-        .from("yeezys")
-        .select("*")
-        .returns<DatabaseItem[]>();
+    const yeezyData = await $fetch("/api/yeezys");
 
-    if (!yeezyData || yeezyError) {
+    if (!yeezyData) {
         setResponseStatus(
             event,
             500,
@@ -53,7 +50,7 @@ export default defineEventHandler(async (event) => {
         const itemId = collectionEntry.items[i];
         const size = collectionEntry.sizes[i];
 
-        const item = yeezyData?.find((i) => i.id === itemId);
+        const item = yeezyData.items.find((i) => i.id === itemId);
 
         if (item) {
             collectionItems.push({
@@ -63,25 +60,20 @@ export default defineEventHandler(async (event) => {
         }
     }
 
-    let { data: modelData, error: modelError } = await supabase
-        .from("yeezys")
-        .select("modelName")
-        .returns<DatabaseItem[]>();
+    const models = await $fetch("/api/yeezys/models");
 
-    if (!modelData || modelError) {
+    if (!models) {
         setResponseStatus(
             event,
             500,
-            "Something went wrong while fetching items."
+            "Something went wrong while fetching the model data."
         );
         return;
     }
 
-    const models = [...new Set(modelData.map((d) => d.modelName))];
-
     const groupedItems: CollectionItem[][] = [];
 
-    for (const group of models) {
+    for (const group of models.items) {
         const foundItems = collectionItems.filter(
             (i) => i.item.modelName === group
         );

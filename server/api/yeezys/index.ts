@@ -7,7 +7,9 @@ export default defineEventHandler(async (event) => {
         .select("*")
         .returns<DatabaseItem[]>();
 
-    if (!data || error) {
+    const models = await $fetch("/api/yeezys/models");
+
+    if (!data || error || !models) {
         setResponseStatus(
             event,
             500,
@@ -15,6 +17,17 @@ export default defineEventHandler(async (event) => {
         );
         return;
     }
+
+    data.sort((a, b) => {
+        if (
+            models.items.indexOf(a.modelName) >
+            models.items.indexOf(b.modelName)
+        ) {
+            return 1;
+        } else {
+            return -1;
+        }
+    });
 
     return {
         items: data,

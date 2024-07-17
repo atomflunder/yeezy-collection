@@ -19,7 +19,7 @@ export default defineEventHandler(async (event) => {
     const models = [...new Set(data.map((d) => d.modelName))];
 
     return {
-        item: models,
+        items: models,
     };
 });
 
