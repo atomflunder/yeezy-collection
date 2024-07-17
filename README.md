@@ -1,6 +1,7 @@
 # Yeezy Collection
 
-This is an app to manage and share your collection of Yeezy Sneakers.
+This is an app to manage and share your collection of Yeezy Sneakers.  
+Disclaimer: This project is not affiliated with the Yeezy Brand, Kanye West, Nike, or Adidas.
 
 ## Screenshots
 
