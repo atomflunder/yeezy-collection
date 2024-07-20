@@ -24,7 +24,7 @@
     <UModal v-model="isModalOpen" :ui="{ container: 'items-start' }">
         <UCard>
             <template #header>
-                <div v-if="currentlySelectedYeezy" class="h-6 text-left">
+                <div class="h-6 text-left">
                     {{
                         currentlySelectedYeezy
                             ? currentlySelectedYeezy.displayName
@@ -46,6 +46,8 @@
                     width="200px"
                 />
             </span>
+
+            <!-- TODO: Reduce UI Shift when selecting an item? -->
 
             <USelectMenu
                 v-model="currentlySelectedSize"
