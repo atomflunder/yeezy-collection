@@ -1,3 +1,4 @@
+import sortItems from "~/server/utils/sortItems";
 import { supabase } from "~/server/utils/supabase";
 import { DatabaseItem } from "~/types";
 
@@ -18,24 +19,7 @@ export default defineEventHandler(async (event) => {
         return;
     }
 
-    data.sort((a, b) => {
-        if (
-            models.items.indexOf(a.modelName) >
-            models.items.indexOf(b.modelName)
-        ) {
-            return 1;
-        } else if (
-            models.items.indexOf(a.modelName) <
-            models.items.indexOf(b.modelName)
-        ) {
-            return -1;
-        } else {
-            // If a tie occurs it's just alphabetically
-            return a.displayName.localeCompare(b.displayName, "en-US", {
-                numeric: true,
-            });
-        }
-    });
+    data = sortItems(data, models.items);
 
     return {
         items: data,

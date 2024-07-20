@@ -1,3 +1,4 @@
+import groupByModel from "~/server/utils/groupByModel";
 import { supabase } from "~/server/utils/supabase";
 import { CollectionEntry, CollectionItem, DatabaseItem } from "~/types";
 
@@ -71,17 +72,7 @@ export default defineEventHandler(async (event) => {
         return;
     }
 
-    const groupedItems: CollectionItem[][] = [];
-
-    for (const group of models.items) {
-        const foundItems = collectionItems.filter(
-            (i) => i.item.modelName === group
-        );
-
-        if (foundItems.length > 0) {
-            groupedItems.push(foundItems);
-        }
-    }
+    const groupedItems = groupByModel(collectionItems, models.items);
 
     return {
         createdAt: collectionEntry.created_at,
