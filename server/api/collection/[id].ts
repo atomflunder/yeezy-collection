@@ -1,6 +1,6 @@
 import groupByModel from "~/server/utils/groupByModel";
 import { supabase } from "~/server/utils/supabase";
-import { CollectionEntry, CollectionItem, DatabaseItem } from "~/types";
+import { CollectionEntry, CollectionItem } from "~/types";
 
 // TODO: Add a approximate value for the recent price on StockX?
 
