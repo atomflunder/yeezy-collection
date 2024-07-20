@@ -16,9 +16,10 @@ export default defineEventHandler(async (event) => {
         .from("collections")
         .select("*")
         .eq("url", "/view/" + id)
+        .limit(1)
         .returns<CollectionEntry[]>();
 
-    if (collectionError || !collectionData || collectionData.length !== 1) {
+    if (collectionError || !collectionData) {
         setResponseStatus(
             event,
             500,
