@@ -1,4 +1,4 @@
-import findUniqueCollections from "~/server/utils/findUniqueCollections";
+import filterDuplicateCollections from "~/server/utils/filterDuplicateCollections";
 import { CollectionEntry } from "~/types";
 
 export default defineEventHandler(async (event) => {
@@ -26,7 +26,7 @@ export default defineEventHandler(async (event) => {
         };
     }
 
-    collectionData = findUniqueCollections(collectionData);
+    collectionData = filterDuplicateCollections(collectionData);
 
     return {
         collectionData,
