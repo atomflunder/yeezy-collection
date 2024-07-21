@@ -1,5 +1,12 @@
-import { CollectionItem, DatabaseItem } from "~/types";
+import { DatabaseItem } from "~/types";
 
+/**
+ * Sorts items by the index of their models.
+ * If there is a tie, it will sort them alphabetically.
+ * @param items The initial list of items.
+ * @param models The models to sort the list by.
+ * @returns The sorted list of items.
+ */
 export default function sortItems(
     items: DatabaseItem[],
     models: string[]

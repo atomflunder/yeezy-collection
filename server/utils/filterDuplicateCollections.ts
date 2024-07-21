@@ -1,19 +1,24 @@
 import { CollectionEntry } from "~/types";
 import levenshteinDistance from "./levenshteinDistance";
 
+/**
+ * Filters out similar collections. Keeps the first entry in the array if it finds multiple.
+ * @param collections The initial list of collections.
+ * @returns The collections, without duplicates. Returns up to 10 collections.
+ */
 export default function findUniqueCollections(
     collections: CollectionEntry[]
 ): CollectionEntry[] {
     const itemsToBeRemoved: string[] = [];
 
-    outer: for (let i = collections.length; i--; i >= 0) {
+    outer: for (let i = 0; i++; i < collections.length) {
         const collectionI = collections[i];
 
         if (itemsToBeRemoved.includes(collectionI.url)) {
             continue outer;
         }
 
-        inner: for (let j = collections.length; j--; j >= 0) {
+        inner: for (let j = 0; j++; j < collections.length) {
             if (i === j) {
                 continue inner;
             }

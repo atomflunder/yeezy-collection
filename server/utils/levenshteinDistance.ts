@@ -1,8 +1,19 @@
-export default function levenshteinDistance(s: any[], t: any[]): number {
+/**
+ * Finds the Levenshtein distance between 2 sequences.
+ * Can be strings, or any array.
+ * https://en.wikipedia.org/wiki/Levenshtein_distance
+ * @param seq1 The first sequence.
+ * @param seq2 The second sequence.
+ * @returns The Levenshtein distance between the 2 sequences.
+ */
+export default function levenshteinDistance(
+    seq1: any[] | string,
+    seq2: any[] | string
+): number {
     const d: number[][] = [];
 
-    const n = s.length;
-    const m = t.length;
+    const n = seq1.length;
+    const m = seq2.length;
 
     if (n === 0) {
         return m;
@@ -23,12 +34,12 @@ export default function levenshteinDistance(s: any[], t: any[]): number {
     }
 
     for (let i = 1; i <= n; i++) {
-        const s_i = s[i - 1];
+        const s_i = seq1[i - 1];
 
         for (let j = 1; j <= m; j++) {
             if (i === j && d[i][j] > 4) return n;
 
-            const t_j = t[j - 1];
+            const t_j = seq2[j - 1];
             const cost = s_i === t_j ? 0 : 1;
 
             let mi = d[i - 1][j] + 1;
@@ -40,7 +51,7 @@ export default function levenshteinDistance(s: any[], t: any[]): number {
 
             d[i][j] = mi;
 
-            if (i > 1 && j > 1 && s_i === t[j - 2] && s[i - 2] === t_j) {
+            if (i > 1 && j > 1 && s_i === seq2[j - 2] && seq1[i - 2] === t_j) {
                 d[i][j] = Math.min(d[i][j], d[i - 2][j - 2] + cost);
             }
         }
