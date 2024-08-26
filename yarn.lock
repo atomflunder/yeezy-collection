@@ -739,10 +739,10 @@
   dependencies:
     "@iconify/types" "*"
 
-"@iconify/json@^2.2.238":
-  version "2.2.238"
-  resolved "https://registry.yarnpkg.com/@iconify/json/-/json-2.2.238.tgz#763573a7f762c6bb84735852ceb2ee487584c3bc"
-  integrity sha512-wtsUtPGeHH4Jy0Z+oIKyD9ldrFISAEzfGs1SM+PthhHRywDDiZsP2iVn6d2Vzn03wVTB7b8882zoztWWPl1ZmA==
+"@iconify/json@^2.2.241":
+  version "2.2.241"
+  resolved "https://registry.yarnpkg.com/@iconify/json/-/json-2.2.241.tgz#4358fe4ea7bb1e0f6fc46cac3bc7c4cf0818d233"
+  integrity sha512-zpeIjmIrTjl0ra6BYTYDfoK/hXn++xT5Hllc87K5SQwnqKs9RJeToSBzjF1gAsrxia+ilkhtGCcqbFF0ppDXiw==
   dependencies:
     "@iconify/types" "*"
     pathe "^1.1.2"
