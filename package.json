@@ -14,7 +14,7 @@
     "@nuxt/image": "^1.7.0",
     "@nuxt/ui": "^2.18.4",
     "@nuxtjs/color-mode": "^3.4.4",
-    "@supabase/supabase-js": "^2.45.1",
+    "@supabase/supabase-js": "^2.45.2",
     "nuxt": "^3.13.0",
     "vue": "latest"
   },
